@@ -18,4 +18,5 @@ The main components are:
 
 The board attaches directly to the motor casing with mosfets in direct contact (with thermal paste). This makes a good heatsink for power dissipation.
 
-
+![Board top](doc/BLDC-driver.png)
+![Board bottom](doc/BLDC-driver-bot.png)
