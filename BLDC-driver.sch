@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "BLDC FOC Servo"
 Date ""
 Rev ""
-Comp ""
+Comp "Walmis"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -1666,6 +1666,8 @@ F 0 "U1" H 8575 1865 50  0000 C CNN
 F 1 "NCP81151B" H 8575 1774 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm" H 8600 1850 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 8600 1850 50  0001 C CNN
+F 4 "NCP81151MNTBG" H 8600 1850 50  0001 C CNN "MPN"
+F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 8600 1850 50  0001 C CNN "URL"
 	1    8600 1850
 	1    0    0    -1  
 $EndComp
@@ -1716,6 +1718,8 @@ F 0 "U4" H 8675 4665 50  0000 C CNN
 F 1 "NCP81151B" H 8675 4574 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm" H 8700 4650 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 8700 4650 50  0001 C CNN
+F 4 "NCP81151MNTBG" H 8700 4650 50  0001 C CNN "MPN"
+F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 8700 4650 50  0001 C CNN "URL"
 	1    8700 4650
 	1    0    0    -1  
 $EndComp
@@ -1753,6 +1757,8 @@ F 0 "U5" H 4475 5565 50  0000 C CNN
 F 1 "NCP81151B" H 4475 5474 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm" H 4500 5550 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 4500 5550 50  0001 C CNN
+F 4 "NCP81151MNTBG" H 4500 5550 50  0001 C CNN "MPN"
+F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 4500 5550 50  0001 C CNN "URL"
 	1    4500 5550
 	1    0    0    -1  
 $EndComp
@@ -1960,6 +1966,7 @@ F 0 "NTC1" H 6797 1446 50  0000 L CNN
 F 1 "10k" H 6797 1355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 6700 1450 50  0001 C CNN
 F 3 "~" H 6700 1450 50  0001 C CNN
+F 4 "NCU18XH103F60RB" H 6700 1400 50  0001 C CNN "MPN"
 	1    6700 1400
 	1    0    0    -1  
 $EndComp
@@ -2323,6 +2330,8 @@ F 0 "R14" H 9970 6096 50  0000 L CNN
 F 1 "0.001" H 9970 6005 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric" V 9830 6050 50  0001 C CNN
 F 3 "~" H 9900 6050 50  0001 C CNN
+F 4 "PMR25HZPFV1L00" H 9900 6050 50  0001 C CNN "MPN"
+F 5 "https://lt.farnell.com/rohm/pmr25hzpfv1l00/current-sense-res-0r001-1-1-w/dp/2696414" H 9900 6050 50  0001 C CNN "URL"
 	1    9900 6050
 	-1   0    0    1   
 $EndComp
@@ -2334,6 +2343,8 @@ F 0 "R15" H 5770 6946 50  0000 L CNN
 F 1 "0.001" H 5770 6855 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric" V 5630 6900 50  0001 C CNN
 F 3 "~" H 5700 6900 50  0001 C CNN
+F 4 "PMR25HZPFV1L00" H 5700 6900 50  0001 C CNN "MPN"
+F 5 "https://lt.farnell.com/rohm/pmr25hzpfv1l00/current-sense-res-0r001-1-1-w/dp/2696414" H 5700 6900 50  0001 C CNN "URL"
 	1    5700 6900
 	-1   0    0    1   
 $EndComp
@@ -2342,9 +2353,10 @@ L Device:D_TVS D7
 U 1 1 604E804B
 P 9450 1650
 F 0 "D7" V 9404 1730 50  0000 L CNN
-F 1 "D_TVS" V 9495 1730 50  0000 L CNN
+F 1 "SMAJ24A" V 9495 1730 50  0000 L CNN
 F 2 "Diode_SMD:D_SMB" H 9450 1650 50  0001 C CNN
 F 3 "~" H 9450 1650 50  0001 C CNN
+F 4 "SMAJ24A-E3/61" H 9450 1650 50  0001 C CNN "MPN"
 	1    9450 1650
 	0    1    1    0   
 $EndComp
@@ -2945,4 +2957,12 @@ F 3 "~" V 2450 6950 50  0001 C CNN
 	1    2450 6950
 	0    1    1    0   
 $EndComp
+NoConn ~ 2550 3150
+NoConn ~ 2550 3250
+NoConn ~ 2550 3350
+NoConn ~ 2550 3550
+NoConn ~ 2550 3650
+NoConn ~ 2550 3750
+NoConn ~ 2550 4750
+NoConn ~ 2550 4850
 $EndSCHEMATC
