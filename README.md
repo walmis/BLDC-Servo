@@ -10,6 +10,7 @@ The project goals are:
 
 The main components are:
 * STM32L412 MCU - Cortex M4F
+* or STM32F103C8T6
 * NCP81151 - MOSFET Gate drivers
 * NCS210 current amplifiers
 * FDMS8018 N-channel MOSFETS (can be any TDSON-8 30V>= MOSFETS with required current rating)
