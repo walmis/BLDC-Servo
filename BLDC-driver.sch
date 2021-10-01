@@ -148,12 +148,12 @@ $EndComp
 $Comp
 L power:GND #PWR046
 U 1 1 5EEF16F9
-P 4250 7350
-F 0 "#PWR046" H 4250 7100 50  0001 C CNN
-F 1 "GND" H 4255 7177 50  0000 C CNN
-F 2 "" H 4250 7350 50  0001 C CNN
-F 3 "" H 4250 7350 50  0001 C CNN
-	1    4250 7350
+P 4200 7250
+F 0 "#PWR046" H 4200 7000 50  0001 C CNN
+F 1 "GND" H 4205 7077 50  0000 C CNN
+F 2 "" H 4200 7250 50  0001 C CNN
+F 3 "" H 4200 7250 50  0001 C CNN
+	1    4200 7250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1147,19 +1147,19 @@ F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Regulator_Linear:MIC5504-3.3YM5 U7
+L Regulator_Linear:XC6206PxxxMR U7
 U 1 1 5EEEC834
-P 4250 7050
-F 0 "U7" H 4250 7417 50  0000 C CNN
-F 1 "XC6206P332MR" H 4250 7326 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4250 6650 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/Torex-Semicon-XC6206P332MR_C5446.pdf" H 4000 7300 50  0001 C CNN
-F 4 "C5446" H 0   0   50  0001 C CNN "JLCSMT"
-F 5 "[Basic] Low Dropout Regulators(LDO) Positive Fixed 680mV @ 100mA 6V 3.3V 200mA SOT-23-3L RoHS" H 0   0   50  0001 C CNN "Description"
-F 6 "XC6206P332MR" H 0   0   50  0001 C CNN "MPN"
-F 7 "Torex Semicon" H 0   0   50  0001 C CNN "MFR"
-F 8 "SOT-23-3L" H 0   0   50  0001 C CNN "JLCSMT_PKG"
-	1    4250 7050
+P 4200 6950
+F 0 "U7" H 4200 7317 50  0000 C CNN
+F 1 "XC6206P332MR" H 4200 7226 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4200 6550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Torex-Semicon-XC6206P332MR_C5446.pdf" H 3950 7200 50  0001 C CNN
+F 4 "C5446" H -50 -100 50  0001 C CNN "JLCSMT"
+F 5 "[Basic] Low Dropout Regulators(LDO) Positive Fixed 680mV @ 100mA 6V 3.3V 200mA SOT-23-3L RoHS" H -50 -100 50  0001 C CNN "Description"
+F 6 "XC6206P332MR" H -50 -100 50  0001 C CNN "MPN"
+F 7 "Torex Semicon" H -50 -100 50  0001 C CNN "MFR"
+F 8 "SOT-23-3L" H -50 -100 50  0001 C CNN "JLCSMT_PKG"
+	1    4200 6950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2856,21 +2856,11 @@ Wire Wire Line
 Wire Wire Line
 	1550 2000 1350 2000
 Wire Wire Line
-	3850 7150 3750 7150
-Wire Wire Line
-	3750 7150 3750 6950
-Wire Wire Line
-	3750 6950 3850 6950
-Wire Wire Line
 	3500 6900 3500 6950
-Wire Wire Line
-	3500 6950 3750 6950
 Wire Wire Line
 	3500 7100 3500 6950
 Wire Wire Line
 	3500 7350 3500 7300
-Wire Wire Line
-	4650 6950 4750 6950
 Wire Wire Line
 	4750 6950 4750 7050
 Wire Wire Line
@@ -3384,7 +3374,6 @@ Connection ~ 6250 5200
 Connection ~ 7050 1250
 Connection ~ 950  3950
 Connection ~ 6700 1250
-Connection ~ 3750 6950
 Connection ~ 3500 6950
 Connection ~ 4750 6950
 Connection ~ 2100 7200
@@ -3452,4 +3441,8 @@ F 3 "" H 5150 4850 50  0001 C CNN
 	1    5150 4850
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3500 6950 3900 6950
+Wire Wire Line
+	4500 6950 4750 6950
 $EndSCHEMATC
