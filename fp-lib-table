@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BLDC-Servo)(type KiCad)(uri ${KIPRJMOD}/BLDC-Servo.pretty)(options "")(descr ""))
+)
