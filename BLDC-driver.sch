@@ -443,17 +443,6 @@ F 3 "" H 8900 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0104
-U 1 1 5F543F34
-P 5150 4850
-F 0 "#PWR0104" H 5150 4600 50  0001 C CNN
-F 1 "GND" H 5155 4677 50  0000 C CNN
-F 2 "" H 5150 4850 50  0001 C CNN
-F 3 "" H 5150 4850 50  0001 C CNN
-	1    5150 4850
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+3.3V #PWR0105
 U 1 1 5F6CA258
 P 1300 2700
@@ -757,9 +746,13 @@ P 8600 1850
 F 0 "U1" H 8575 1865 50  0000 C CNN
 F 1 "NCP81155" H 8575 1774 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm" H 8600 1850 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 8600 1850 50  0001 C CNN
-F 4 "NCP81151MNTBG" H 8600 1850 50  0001 C CNN "MPN"
+F 3 "https://datasheet.lcsc.com/lcsc/1809111618_ON-Semiconductor-NCP81155MNTXG_C173765.pdf" H 8600 1850 50  0001 C CNN
+F 4 "NCP81155MNTXG" H 8600 1850 50  0001 C CNN "MPN"
 F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 8600 1850 50  0001 C CNN "URL"
+F 6 "C173765" H 0   0   50  0001 C CNN "JLCSMT"
+F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0   0   50  0001 C CNN "Description"
+F 8 "ON Semiconductor" H 0   0   50  0001 C CNN "MFR"
+F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    8600 1850
 	1    0    0    -1  
 $EndComp
@@ -773,7 +766,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 9150 2000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 9150 2000 50  0001 C CNN
 F 4 "C1525" H 9150 2000 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 9150 2000 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    9150 2000
@@ -818,9 +811,13 @@ P 8700 4650
 F 0 "U4" H 8675 4665 50  0000 C CNN
 F 1 "NCP81155" H 8675 4574 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm" H 8700 4650 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 8700 4650 50  0001 C CNN
-F 4 "NCP81151MNTBG" H 8700 4650 50  0001 C CNN "MPN"
+F 3 "https://datasheet.lcsc.com/lcsc/1809111618_ON-Semiconductor-NCP81155MNTXG_C173765.pdf" H 8700 4650 50  0001 C CNN
+F 4 "NCP81155MNTXG" H 8700 4650 50  0001 C CNN "MPN"
 F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 8700 4650 50  0001 C CNN "URL"
+F 6 "C173765" H 0   0   50  0001 C CNN "JLCSMT"
+F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0   0   50  0001 C CNN "Description"
+F 8 "ON Semiconductor" H 0   0   50  0001 C CNN "MFR"
+F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    8700 4650
 	1    0    0    -1  
 $EndComp
@@ -834,7 +831,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 9250 4800 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 9250 4800 50  0001 C CNN
 F 4 "C1525" H 9250 4800 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 9250 4800 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    9250 4800
@@ -863,9 +860,13 @@ P 4500 5550
 F 0 "U5" H 4475 5565 50  0000 C CNN
 F 1 "NCP81155" H 4475 5474 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm" H 4500 5550 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/NCP81151-D.PDF" H 4500 5550 50  0001 C CNN
-F 4 "NCP81151MNTBG" H 4500 5550 50  0001 C CNN "MPN"
+F 3 "https://datasheet.lcsc.com/lcsc/1809111618_ON-Semiconductor-NCP81155MNTXG_C173765.pdf" H 4500 5550 50  0001 C CNN
+F 4 "NCP81155MNTXG" H 4500 5550 50  0001 C CNN "MPN"
 F 5 "https://lt.farnell.com/on-semiconductor/ncp81151mntbg/mosfet-driver-dual-high-low-dfn/dp/2627993?st=ncp811" H 4500 5550 50  0001 C CNN "URL"
+F 6 "C173765" H 0   0   50  0001 C CNN "JLCSMT"
+F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0   0   50  0001 C CNN "Description"
+F 8 "ON Semiconductor" H 0   0   50  0001 C CNN "MFR"
+F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    4500 5550
 	1    0    0    -1  
 $EndComp
@@ -879,7 +880,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 5050 5700 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 5050 5700 50  0001 C CNN
 F 4 "C1525" H 5050 5700 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 5050 5700 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    5050 5700
@@ -1139,7 +1140,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 7050 1400 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 7050 1400 50  0001 C CNN
 F 4 "C1525" H 7050 1400 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 7050 1400 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    7050 1400
@@ -1150,9 +1151,14 @@ L Regulator_Linear:MIC5504-3.3YM5 U7
 U 1 1 5EEEC834
 P 4250 7050
 F 0 "U7" H 4250 7417 50  0000 C CNN
-F 1 "MIC5504-3.3YM5" H 4250 7326 50  0000 C CNN
+F 1 "XC6206P332MR" H 4250 7326 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4250 6650 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf" H 4000 7300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Torex-Semicon-XC6206P332MR_C5446.pdf" H 4000 7300 50  0001 C CNN
+F 4 "C5446" H 0   0   50  0001 C CNN "JLCSMT"
+F 5 "[Basic] Low Dropout Regulators(LDO) Positive Fixed 680mV @ 100mA 6V 3.3V 200mA SOT-23-3L RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "XC6206P332MR" H 0   0   50  0001 C CNN "MPN"
+F 7 "Torex Semicon" H 0   0   50  0001 C CNN "MFR"
+F 8 "SOT-23-3L" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    4250 7050
 	1    0    0    -1  
 $EndComp
@@ -1195,7 +1201,7 @@ P 1450 6650
 F 0 "U6" H 1500 6715 50  0000 C CNN
 F 1 "MP2359" H 1500 6624 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 1450 6650 50  0001 C CNN
-F 3 "" H 1450 6650 50  0001 C CNN
+F 3 " " H 1450 6650 50  0001 C CNN
 F 4 "C14259" H 1450 6650 50  0001 C CNN "JLCSMT"
 F 5 "TSOT-23-6" H 1450 6650 50  0001 C CNN "JLCSMT_PKG"
 F 6 "[Extended] TSOT-23-6 DC-DC Converters RoHS" H 0   0   50  0001 C CNN "Description"
@@ -1246,7 +1252,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 2100 6850 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 2100 6850 50  0001 C CNN
 F 4 "C1525" H 2100 6850 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 2100 6850 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    2100 6850
@@ -1385,7 +1391,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 5150 4750 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 5150 4750 50  0001 C CNN
 F 4 "C1525" H 5150 4750 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 5150 4750 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    5150 4750
@@ -1409,7 +1415,12 @@ P 5100 1250
 F 0 "U8" H 5300 1750 50  0000 C CNN
 F 1 "NCS213RSQT2G" H 5400 1650 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 5100 1250 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF" H 5100 1250 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1808061820_Texas-Instruments-INA213AIDCKT_C129948.pdf" H 5100 1250 50  0001 C CNN
+F 4 "C129948" H 0   0   50  0001 C CNN "JLCSMT"
+F 5 "[Extended] SC-70-6(SOT-363) Current-Sensing Amplifiers ROHS" H 0   0   50  0001 C CNN "Description"
+F 6 "INA213AIDCKT" H 0   0   50  0001 C CNN "MPN"
+F 7 "Texas Instruments" H 0   0   50  0001 C CNN "MFR"
+F 8 "SOT-363" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    5100 1250
 	1    0    0    -1  
 $EndComp
@@ -1423,7 +1434,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 4850 2050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 4850 2050 50  0001 C CNN
 F 4 "C1525" H 4850 2050 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 4850 2050 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    4850 2050
@@ -1439,7 +1450,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 4900 800 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 4900 800 50  0001 C CNN
 F 4 "C1525" H 4900 800 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 4900 800 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    4900 800 
@@ -1500,10 +1511,10 @@ P 6700 2750
 F 0 "D2" V 6739 2632 50  0000 R CNN
 F 1 "LED" V 6648 2632 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 6700 2750 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-KT-0603R_C2286.pdf" H 6700 2750 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf" H 6700 2750 50  0001 C CNN
 F 4 "C2286" H 6700 2750 50  0001 C CNN "JLCSMT"
-F 5 "0603" H 6700 2750 50  0001 C CNN "JLCSMT_PKG"
-F 6 "LED, RED, 0603" H 0   0   50  0001 C CNN "Description"
+F 5 "LED_0603" H 6700 2750 50  0001 C CNN "JLCSMT_PKG"
+F 6 "[Basic] Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS" H 0   0   50  0001 C CNN "Description"
 F 7 "KT-0603R" H 0   0   50  0001 C CNN "MPN"
 F 8 "Hubei KENTO Elec" H 0   0   50  0001 C CNN "MFR"
 	1    6700 2750
@@ -1537,7 +1548,7 @@ F 4 "LR1206-21R001F4" H 9900 6050 50  0001 C CNN "MPN"
 F 5 "https://lt.farnell.com/rohm/pmr25hzpfv1l00/current-sense-res-0r001-1-1-w/dp/2696414" H 9900 6050 50  0001 C CNN "URL"
 F 6 "C154629" H 9900 6050 50  0001 C CNN "JLCSMT"
 F 7 "RES-SMD" H 9900 6050 50  0001 C CNN "JLCSMT_PKG"
-F 8 "[Extended] 0.001Ω ±1% 1W ±75ppm/℃ 1206 Current Sense Resistors/Shunt Resistors RoHS" H 0   0   50  0001 C CNN "Description"
+F 8 "[Extended] ±75ppm/℃ ±1% 1W 0.001Ω 1206 Current Sense Resistors/Shunt Resistors ROHS" H 0   0   50  0001 C CNN "Description"
 F 9 "RALEC" H 0   0   50  0001 C CNN "MFR"
 	1    9900 6050
 	-1   0    0    1   
@@ -1554,7 +1565,7 @@ F 4 "LR1206-21R001F4" H 5700 6900 50  0001 C CNN "MPN"
 F 5 "https://lt.farnell.com/rohm/pmr25hzpfv1l00/current-sense-res-0r001-1-1-w/dp/2696414" H 5700 6900 50  0001 C CNN "URL"
 F 6 "C154629" H 5700 6900 50  0001 C CNN "JLCSMT"
 F 7 "RES-SMD" H 5700 6900 50  0001 C CNN "JLCSMT_PKG"
-F 8 "[Extended] 0.001Ω ±1% 1W ±75ppm/℃ 1206 Current Sense Resistors/Shunt Resistors RoHS" H 0   0   50  0001 C CNN "Description"
+F 8 "[Extended] ±75ppm/℃ ±1% 1W 0.001Ω 1206 Current Sense Resistors/Shunt Resistors ROHS" H 0   0   50  0001 C CNN "Description"
 F 9 "RALEC" H 0   0   50  0001 C CNN "MFR"
 	1    5700 6900
 	-1   0    0    1   
@@ -1564,14 +1575,14 @@ L Device:D_TVS D7
 U 1 1 604E804B
 P 9450 1650
 F 0 "D7" V 9404 1730 50  0000 L CNN
-F 1 "SMAJ24A" V 9495 1730 50  0000 L CNN
+F 1 "SMAJ20A" V 9495 1730 50  0000 L CNN
 F 2 "Diode_SMD:D_SMB" H 9450 1650 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/lcsc/1811081811_RUILON-Shenzhen-Ruilongyuan-Elec-SMAJ24A_C10769.pdf" H 9450 1650 50  0001 C CNN
-F 4 "SMAJ24A" H 9450 1650 50  0001 C CNN "MPN"
-F 5 "C10769" H 0   0   50  0001 C CNN "JLCSMT"
-F 6 "[Extended] Unidirectional 24V 26.7V 38.9V 10.3A SMA(DO-214AC) TVS RoHS" H 0   0   50  0001 C CNN "Description"
-F 7 "RUILON(Shenzhen Ruilongyuan Elec)" H 0   0   50  0001 C CNN "MFR"
-F 8 "SMA,DO-214AC" H 0   0   50  0001 C CNN "JLCSMT_PKG"
+F 3 "https://datasheet.lcsc.com/lcsc/1912111437_Shandong-Jingdao-Microelectronics-SMAJ20A_C353466.pdf" H 9450 1650 50  0001 C CNN
+F 4 "SMAJ20A" H 9450 1650 50  0001 C CNN "MPN"
+F 5 "C353466" H 0   0   50  0001 C CNN "JLCSMT"
+F 6 "[Extended] Unidirectional 12.3A 32.4V 22.2V 20V SMA TVS ROHS" H 0   0   50  0001 C CNN "Description"
+F 7 "Shandong Jingdao Microelectronics" H 0   0   50  0001 C CNN "MFR"
+F 8 "SMA" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    9450 1650
 	0    1    1    0   
 $EndComp
@@ -1649,7 +1660,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 5900 1500 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 5900 1500 50  0001 C CNN
 F 4 "C1525" H 5900 1500 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 5900 1500 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    5900 1500
@@ -1908,7 +1919,12 @@ P 5100 2500
 F 0 "U9" H 5300 3000 50  0000 C CNN
 F 1 "NCS213RSQT2G" H 5400 2900 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 5100 2500 50  0001 C CNN
-F 3 "https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF" H 5100 2500 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1808061820_Texas-Instruments-INA213AIDCKT_C129948.pdf" H 5100 2500 50  0001 C CNN
+F 4 "C129948" H 0   0   50  0001 C CNN "JLCSMT"
+F 5 "[Extended] SC-70-6(SOT-363) Current-Sensing Amplifiers ROHS" H 0   0   50  0001 C CNN "Description"
+F 6 "INA213AIDCKT" H 0   0   50  0001 C CNN "MPN"
+F 7 "Texas Instruments" H 0   0   50  0001 C CNN "MFR"
+F 8 "SOT-363" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    5100 2500
 	1    0    0    -1  
 $EndComp
@@ -1922,7 +1938,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 5950 2700 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 5950 2700 50  0001 C CNN
 F 4 "C1525" H 5950 2700 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 5950 2700 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    5950 2700
@@ -1965,14 +1981,14 @@ L Interface_UART:SN75176AD U11
 U 1 1 6046A372
 P 2700 5950
 F 0 "U11" H 2750 6050 50  0000 C CNN
-F 1 "SN75176AD" H 3150 6000 50  0000 C CNN
+F 1 "SP485EEN-L/TR" H 3150 6000 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2700 5450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/lcsc/1809151932_Texas-Instruments-SN75176BDR_C7063.pdf" H 4300 5750 50  0001 C CNN
-F 4 "C7063" H 2700 5950 50  0001 C CNN "JLCSMT"
+F 3 "https://datasheet.lcsc.com/lcsc/2104081903_MaxLinear-SP485EEN-L-TR_C6855.pdf" H 4300 5750 50  0001 C CNN
+F 4 "C6855" H 2700 5950 50  0001 C CNN "JLCSMT"
 F 5 "SOIC-8_3.9x4.9x1.27P" H 2700 5950 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] Transceiver RS485 1/1 SOIC-8_150mil RS-485/RS-422 ICs RoHS" H 0   0   50  0001 C CNN "Description"
-F 7 "SN75176BDR" H 0   0   50  0001 C CNN "MPN"
-F 8 "Texas Instruments" H 0   0   50  0001 C CNN "MFR"
+F 6 "[Basic] Transceiver 1/1 RS485 10Mbps SOIC-8_150mil RS-485/RS-422 ICs ROHS" H 0   0   50  0001 C CNN "Description"
+F 7 "SP485EEN-L/TR" H 0   0   50  0001 C CNN "MPN"
+F 8 "MaxLinear" H 0   0   50  0001 C CNN "MFR"
 	1    2700 5950
 	1    0    0    -1  
 $EndComp
@@ -1983,7 +1999,12 @@ P 3250 3750
 F 0 "U2" H 3200 4300 50  0000 C CNN
 F 1 "STM32L412CB" H 3250 4150 50  0000 C CNN
 F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 2650 2350 50  0001 R CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf" H 3250 3750 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1809201023_GigaDevice-Semicon-Beijing-GD32F103C8T6_C77994.pdf" H 3250 3750 50  0001 C CNN
+F 4 "C77994" H 0   0   50  0001 C CNN "JLCSMT"
+F 5 "[Extended] 2.6V ~ 3.6V 32-Bit ARM? Cortex?-M3 108MHz FLASH LQFP-48_7x7x05P GigaDevice ROHS" H 0   0   50  0001 C CNN "Description"
+F 6 "GD32F103C8T6" H 0   0   50  0001 C CNN "MPN"
+F 7 "GigaDevice Semicon Beijing" H 0   0   50  0001 C CNN "MFR"
+F 8 "TQFP-48_7.0x7.0x0.5P" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    3250 3750
 	1    0    0    -1  
 $EndComp
@@ -1997,7 +2018,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 4300 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 4300 3050 50  0001 C CNN
 F 4 "C1525" H 4300 3050 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 4300 3050 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    4300 3050
@@ -2029,7 +2050,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 3750 1850 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 3750 1850 50  0001 C CNN
 F 4 "C1525" H 3750 1850 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 3750 1850 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    3750 1850
@@ -2045,7 +2066,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 3600 1850 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 3600 1850 50  0001 C CNN
 F 4 "C1525" H 3600 1850 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 3600 1850 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    3600 1850
@@ -2061,7 +2082,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 3950 1850 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 3950 1850 50  0001 C CNN
 F 4 "C1525" H 3950 1850 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 3950 1850 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    3950 1850
@@ -2077,7 +2098,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 3400 1850 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 3400 1850 50  0001 C CNN
 F 4 "C1525" H 3400 1850 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 3400 1850 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    3400 1850
@@ -2093,7 +2114,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric" H 2800 5550 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" H 2800 5550 50  0001 C CNN
 F 4 "C1525" H 2800 5550 50  0001 C CNN "JLCSMT"
 F 5 "0402" H 2800 5550 50  0001 C CNN "JLCSMT_PKG"
-F 6 "[Basic] 100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 0   0   50  0001 C CNN "Description"
+F 6 "[Basic] X7R 100nF ±10% 16V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0   0   50  0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0   0   50  0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "MFR"
 	1    2800 5550
@@ -2280,9 +2301,14 @@ L Device:D_Schottky_Small D1
 U 1 1 5F267FF0
 P 2450 6950
 F 0 "D1" V 2404 7020 50  0000 L CNN
-F 1 "30V" V 2495 7020 50  0000 L CNN
+F 1 "1N5819WS" V 2495 7020 50  0000 L CNN
 F 2 "Diode_SMD:D_SOD-323" V 2450 6950 50  0001 C CNN
-F 3 "~" V 2450 6950 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810202112_Guangdong-Hottech-1N5819WS_C191023.pdf" V 2450 6950 50  0001 C CNN
+F 4 "C191023" H 0   0   50  0001 C CNN "JLCSMT"
+F 5 "[Basic] 40V 1A 600mV @ 1A SOD-323 Schottky Barrier Diodes (SBD) ROHS" H 0   0   50  0001 C CNN "Description"
+F 6 "1N5819WS" H 0   0   50  0001 C CNN "MPN"
+F 7 "Guangdong Hottech" H 0   0   50  0001 C CNN "MFR"
+F 8 "SOD-323" H 0   0   50  0001 C CNN "JLCSMT_PKG"
 	1    2450 6950
 	0    1    1    0   
 $EndComp
@@ -2409,6 +2435,44 @@ F 1 "GND" H 2105 3427 50  0000 C CNN
 F 2 "" H 2100 3600 50  0001 C CNN
 F 3 "" H 2100 3600 50  0001 C CNN
 	1    2100 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J5
+U 1 1 6158C2B5
+P 10700 3450
+F 0 "J5" H 10780 3442 50  0000 L CNN
+F 1 "Encoder" H 10780 3351 50  0000 L CNN
+F 2 "BLDC-Servo:FPC-SMD_F0502-B-06-10G-R" H 10700 3450 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2004140933_XFCN-F0502-B-06-10G-R_C512910.pdf" H 10700 3450 50  0001 C CNN
+F 4 "C512910" H 10700 3450 50  0001 C CNN "JLCSMT"
+F 5 "[Extended] 6 0.020\"（0.50mm） 0.039\"（1.00mm） Forward Slip Contact,Bottom P=0.5mm FFC, FPC Connectors ROHS" H 0   0   50  0001 C CNN "Description"
+F 6 "F0502-B-06-10G-R" H 0   0   50  0001 C CNN "MPN"
+F 7 "XFCN" H 0   0   50  0001 C CNN "MFR"
+F 8 "FPC-SMD" H 0   0   50  0001 C CNN "JLCSMT_PKG"
+	1    10700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0133
+U 1 1 61672685
+P 10400 3800
+F 0 "#PWR0133" H 10400 3550 50  0001 C CNN
+F 1 "GND" H 10405 3627 50  0000 C CNN
+F 2 "" H 10400 3800 50  0001 C CNN
+F 3 "" H 10400 3800 50  0001 C CNN
+	1    10400 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0134
+U 1 1 616D826B
+P 10400 3250
+F 0 "#PWR0134" H 10400 3100 50  0001 C CNN
+F 1 "+5V" H 10415 3423 50  0000 C CNN
+F 2 "" H 10400 3250 50  0001 C CNN
+F 3 "" H 10400 3250 50  0001 C CNN
+	1    10400 3250
 	1    0    0    -1  
 $EndComp
 Text Label 10000 2500 0    50   ~ 0
@@ -2605,6 +2669,22 @@ Text Notes 2950 3500 0    50   ~ 0
 STM32F103C8T6
 Text Notes 2400 3400 0    24   ~ 0
 16MHz strap
+Text Label 1950 4050 0    50   ~ 0
+MOSI
+Text Label 1950 3950 0    50   ~ 0
+MISO
+Text Label 2300 3650 0    50   ~ 0
+SCK
+Text Label 10400 3650 2    50   ~ 0
+SCK
+Text Label 10400 3550 2    50   ~ 0
+MISO
+Text Label 10400 3450 2    50   ~ 0
+MOSI
+Text Label 2350 3550 0    50   ~ 0
+~CS
+Text Label 10400 3350 2    50   ~ 0
+~CS
 Wire Wire Line
 	9000 2100 9000 2000
 Wire Wire Line
@@ -3267,6 +3347,26 @@ Wire Wire Line
 	2100 3600 1950 3600
 Wire Wire Line
 	1050 2800 1800 2800
+Wire Wire Line
+	1950 3950 2550 3950
+Wire Wire Line
+	2300 3650 2550 3650
+Wire Wire Line
+	10400 3650 10500 3650
+Wire Wire Line
+	10400 3800 10400 3750
+Wire Wire Line
+	10400 3750 10500 3750
+Wire Wire Line
+	10400 3550 10500 3550
+Wire Wire Line
+	10400 3450 10500 3450
+Wire Wire Line
+	10400 3250 10500 3250
+Wire Wire Line
+	2350 3550 2550 3550
+Wire Wire Line
+	10400 3350 10500 3350
 Connection ~ 9800 2500
 Connection ~ 9800 1500
 Connection ~ 10150 1500
@@ -3342,73 +3442,14 @@ NoConn ~ 2550 3250
 NoConn ~ 2550 3750
 NoConn ~ 2550 4750
 $Comp
-L Connector_Generic:Conn_01x06 J5
-U 1 1 6158C2B5
-P 10700 3450
-F 0 "J5" H 10780 3442 50  0000 L CNN
-F 1 "Conn_01x06" H 10780 3351 50  0000 L CNN
-F 2 "BLDC-Servo:FPC-SMD_F0502-B-06-10G-R" H 10700 3450 50  0001 C CNN
-F 3 "~" H 10700 3450 50  0001 C CNN
-F 4 "C512910" H 10700 3450 50  0001 C CNN "JLCSMT"
-	1    10700 3450
+L power:GND #PWR0104
+U 1 1 5F543F34
+P 5150 4850
+F 0 "#PWR0104" H 5150 4600 50  0001 C CNN
+F 1 "GND" H 5155 4677 50  0000 C CNN
+F 2 "" H 5150 4850 50  0001 C CNN
+F 3 "" H 5150 4850 50  0001 C CNN
+	1    5150 4850
 	1    0    0    -1  
 $EndComp
-Text Label 1950 4050 0    50   ~ 0
-MOSI
-Text Label 1950 3950 0    50   ~ 0
-MISO
-Wire Wire Line
-	1950 3950 2550 3950
-Text Label 2300 3650 0    50   ~ 0
-SCK
-Wire Wire Line
-	2300 3650 2550 3650
-Text Label 10400 3650 2    50   ~ 0
-SCK
-Wire Wire Line
-	10400 3650 10500 3650
-$Comp
-L power:GND #PWR0133
-U 1 1 61672685
-P 10400 3800
-F 0 "#PWR0133" H 10400 3550 50  0001 C CNN
-F 1 "GND" H 10405 3627 50  0000 C CNN
-F 2 "" H 10400 3800 50  0001 C CNN
-F 3 "" H 10400 3800 50  0001 C CNN
-	1    10400 3800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10400 3800 10400 3750
-Wire Wire Line
-	10400 3750 10500 3750
-Text Label 10400 3550 2    50   ~ 0
-MISO
-Wire Wire Line
-	10400 3550 10500 3550
-Text Label 10400 3450 2    50   ~ 0
-MOSI
-Wire Wire Line
-	10400 3450 10500 3450
-$Comp
-L power:+5V #PWR0134
-U 1 1 616D826B
-P 10400 3250
-F 0 "#PWR0134" H 10400 3100 50  0001 C CNN
-F 1 "+5V" H 10415 3423 50  0000 C CNN
-F 2 "" H 10400 3250 50  0001 C CNN
-F 3 "" H 10400 3250 50  0001 C CNN
-	1    10400 3250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10400 3250 10500 3250
-Text Label 2350 3550 0    50   ~ 0
-~CS
-Wire Wire Line
-	2350 3550 2550 3550
-Text Label 10400 3350 2    50   ~ 0
-~CS
-Wire Wire Line
-	10400 3350 10500 3350
 $EndSCHEMATC
