@@ -3445,6 +3445,6 @@ Wire Wire Line
 	3500 6950 3900 6950
 Wire Wire Line
 	4500 6950 4750 6950
-Text Notes 1250 7550 0    50   ~ 0
-Compatible:\nEUP3458\nME3116
+Text Notes 1250 7650 0    50   ~ 0
+Compatible:\nEUP3458\nME3116\nSSP9451
 $EndSCHEMATC
