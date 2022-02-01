@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name BLDC-driver-rescue)(type Legacy)(uri ${KIPRJMOD}/BLDC-driver-rescue.lib)(options "")(descr ""))
+  (lib (name JLC)(type Legacy)(uri ${KIPRJMOD}/JLC.lib)(options "")(descr ""))
+  (lib (name BLDC-driver)(type Legacy)(uri ${KIPRJMOD}/BLDC-driver.lib)(options "")(descr ""))
 )

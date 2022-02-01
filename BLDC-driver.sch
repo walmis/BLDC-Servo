@@ -21,8 +21,8 @@ F 0 "#PWR02" H 9800 1300 50 0001 C CNN
 F 1 "+24V" H 9815 1623 50 0000 C CNN
 F 2 "" H 9800 1450 50 0001 C CNN
 F 3 "" H 9800 1450 50 0001 C CNN
-	1    9800 1450
-	1    0    0    -1  
+	1 9800 1450
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR07
@@ -32,8 +32,8 @@ F 0 "#PWR07" H 8000 1750 50 0001 C CNN
 F 1 "+5V" H 8015 2073 50 0000 C CNN
 F 2 "" H 8000 1900 50 0001 C CNN
 F 3 "" H 8000 1900 50 0001 C CNN
-	1    8000 1900
-	1    0    0    -1  
+	1 8000 1900
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+24V #PWR021
@@ -43,8 +43,8 @@ F 0 "#PWR021" H 9900 4100 50 0001 C CNN
 F 1 "+24V" H 9915 4423 50 0000 C CNN
 F 2 "" H 9900 4250 50 0001 C CNN
 F 3 "" H 9900 4250 50 0001 C CNN
-	1    9900 4250
-	1    0    0    -1  
+	1 9900 4250
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR023
@@ -54,8 +54,8 @@ F 0 "#PWR023" H 8100 4550 50 0001 C CNN
 F 1 "+5V" H 8115 4873 50 0000 C CNN
 F 2 "" H 8100 4700 50 0001 C CNN
 F 3 "" H 8100 4700 50 0001 C CNN
-	1    8100 4700
-	1    0    0    -1  
+	1 8100 4700
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+24V #PWR025
@@ -65,8 +65,8 @@ F 0 "#PWR025" H 5700 5000 50 0001 C CNN
 F 1 "+24V" H 5715 5323 50 0000 C CNN
 F 2 "" H 5700 5150 50 0001 C CNN
 F 3 "" H 5700 5150 50 0001 C CNN
-	1    5700 5150
-	1    0    0    -1  
+	1 5700 5150
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR029
@@ -76,8 +76,8 @@ F 0 "#PWR029" H 3900 5450 50 0001 C CNN
 F 1 "+5V" H 3915 5773 50 0000 C CNN
 F 2 "" H 3900 5600 50 0001 C CNN
 F 3 "" H 3900 5600 50 0001 C CNN
-	1    3900 5600
-	1    0    0    -1  
+	1 3900 5600
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR020
@@ -87,8 +87,8 @@ F 0 "#PWR020" H 3050 5100 50 0001 C CNN
 F 1 "GND" H 3055 5177 50 0000 C CNN
 F 2 "" H 3050 5350 50 0001 C CNN
 F 3 "" H 3050 5350 50 0001 C CNN
-	1    3050 5350
-	1    0    0    -1  
+	1 3050 5350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR03
@@ -98,8 +98,8 @@ F 0 "#PWR03" H 3200 1500 50 0001 C CNN
 F 1 "+3.3V" H 3215 1823 50 0000 C CNN
 F 2 "" H 3200 1650 50 0001 C CNN
 F 3 "" H 3200 1650 50 0001 C CNN
-	1    3200 1650
-	1    0    0    -1  
+	1 3200 1650
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR01
@@ -109,8 +109,8 @@ F 0 "#PWR01" H 6700 700 50 0001 C CNN
 F 1 "+3.3V" H 6715 1023 50 0000 C CNN
 F 2 "" H 6700 850 50 0001 C CNN
 F 3 "" H 6700 850 50 0001 C CNN
-	1    6700 850 
-	1    0    0    -1  
+	1 6700 850
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR034
@@ -120,8 +120,8 @@ F 0 "#PWR034" H 1150 5850 50 0001 C CNN
 F 1 "GND" H 1155 5927 50 0000 C CNN
 F 2 "" H 1150 6100 50 0001 C CNN
 F 3 "" H 1150 6100 50 0001 C CNN
-	1    1150 6100
-	1    0    0    -1  
+	1 1150 6100
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR019
@@ -131,8 +131,8 @@ F 0 "#PWR019" H 950 3700 50 0001 C CNN
 F 1 "+3.3V" H 965 4023 50 0000 C CNN
 F 2 "" H 950 3850 50 0001 C CNN
 F 3 "" H 950 3850 50 0001 C CNN
-	1    950  3850
-	1    0    0    -1  
+	1 950 3850
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR032
@@ -142,8 +142,8 @@ F 0 "#PWR032" H 1550 1850 50 0001 C CNN
 F 1 "+5V" V 1550 2200 50 0000 C CNN
 F 2 "" H 1550 2000 50 0001 C CNN
 F 3 "" H 1550 2000 50 0001 C CNN
-	1    1550 2000
-	0    1    1    0   
+	1 1550 2000
+	0 1 1 0
 $EndComp
 $Comp
 L power:GND #PWR046
@@ -153,8 +153,8 @@ F 0 "#PWR046" H 4200 7000 50 0001 C CNN
 F 1 "GND" H 4205 7077 50 0000 C CNN
 F 2 "" H 4200 7250 50 0001 C CNN
 F 3 "" H 4200 7250 50 0001 C CNN
-	1    4200 7250
-	1    0    0    -1  
+	1 4200 7250
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR041
@@ -164,8 +164,8 @@ F 0 "#PWR041" H 3500 6750 50 0001 C CNN
 F 1 "+5V" H 3515 7073 50 0000 C CNN
 F 2 "" H 3500 6900 50 0001 C CNN
 F 3 "" H 3500 6900 50 0001 C CNN
-	1    3500 6900
-	1    0    0    -1  
+	1 3500 6900
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR045
@@ -175,8 +175,8 @@ F 0 "#PWR045" H 3500 7100 50 0001 C CNN
 F 1 "GND" H 3505 7177 50 0000 C CNN
 F 2 "" H 3500 7350 50 0001 C CNN
 F 3 "" H 3500 7350 50 0001 C CNN
-	1    3500 7350
-	1    0    0    -1  
+	1 3500 7350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR047
@@ -186,8 +186,8 @@ F 0 "#PWR047" H 4750 7100 50 0001 C CNN
 F 1 "GND" H 4755 7177 50 0000 C CNN
 F 2 "" H 4750 7350 50 0001 C CNN
 F 3 "" H 4750 7350 50 0001 C CNN
-	1    4750 7350
-	1    0    0    -1  
+	1 4750 7350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR042
@@ -197,8 +197,8 @@ F 0 "#PWR042" H 4750 6750 50 0001 C CNN
 F 1 "+3.3V" H 4765 7073 50 0000 C CNN
 F 2 "" H 4750 6900 50 0001 C CNN
 F 3 "" H 4750 6900 50 0001 C CNN
-	1    4750 6900
-	1    0    0    -1  
+	1 4750 6900
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+24V #PWR039
@@ -208,8 +208,8 @@ F 0 "#PWR039" H 800 6650 50 0001 C CNN
 F 1 "+24V" H 815 6973 50 0000 C CNN
 F 2 "" H 800 6800 50 0001 C CNN
 F 3 "" H 800 6800 50 0001 C CNN
-	1    800  6800
-	1    0    0    -1  
+	1 800 6800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR043
@@ -219,8 +219,8 @@ F 0 "#PWR043" H 900 7000 50 0001 C CNN
 F 1 "GND" H 905 7077 50 0000 C CNN
 F 2 "" H 900 7250 50 0001 C CNN
 F 3 "" H 900 7250 50 0001 C CNN
-	1    900  7250
-	1    0    0    -1  
+	1 900 7250
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR048
@@ -230,8 +230,8 @@ F 0 "#PWR048" H 2100 7250 50 0001 C CNN
 F 1 "GND" H 2105 7327 50 0000 C CNN
 F 2 "" H 2100 7500 50 0001 C CNN
 F 3 "" H 2100 7500 50 0001 C CNN
-	1    2100 7500
-	1    0    0    -1  
+	1 2100 7500
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR044
@@ -241,8 +241,8 @@ F 0 "#PWR044" H 2950 7100 50 0001 C CNN
 F 1 "GND" H 2955 7177 50 0000 C CNN
 F 2 "" H 2950 7350 50 0001 C CNN
 F 3 "" H 2950 7350 50 0001 C CNN
-	1    2950 7350
-	1    0    0    -1  
+	1 2950 7350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR016
@@ -252,8 +252,8 @@ F 0 "#PWR016" H 9800 2950 50 0001 C CNN
 F 1 "GNDPWR" H 9804 2996 50 0000 C CNN
 F 2 "" H 9800 3100 50 0001 C CNN
 F 3 "" H 9800 3100 50 0001 C CNN
-	1    9800 3150
-	1    0    0    -1  
+	1 9800 3150
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR031
@@ -263,8 +263,8 @@ F 0 "#PWR031" H 9900 6050 50 0001 C CNN
 F 1 "GNDPWR" H 9904 6096 50 0000 C CNN
 F 2 "" H 9900 6200 50 0001 C CNN
 F 3 "" H 9900 6200 50 0001 C CNN
-	1    9900 6250
-	1    0    0    -1  
+	1 9900 6250
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR06
@@ -274,8 +274,8 @@ F 0 "#PWR06" H 10150 1600 50 0001 C CNN
 F 1 "GNDPWR" H 10154 1646 50 0000 C CNN
 F 2 "" H 10150 1750 50 0001 C CNN
 F 3 "" H 10150 1750 50 0001 C CNN
-	1    10150 1800
-	1    0    0    -1  
+	1 10150 1800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR028
@@ -285,8 +285,8 @@ F 0 "#PWR028" H 6250 5250 50 0001 C CNN
 F 1 "GNDPWR" H 6254 5296 50 0000 C CNN
 F 2 "" H 6250 5400 50 0001 C CNN
 F 3 "" H 6250 5400 50 0001 C CNN
-	1    6250 5450
-	1    0    0    -1  
+	1 6250 5450
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR040
@@ -296,8 +296,8 @@ F 0 "#PWR040" H 5700 6900 50 0001 C CNN
 F 1 "GNDPWR" H 5700 6950 50 0000 C CNN
 F 2 "" H 5700 7050 50 0001 C CNN
 F 3 "" H 5700 7050 50 0001 C CNN
-	1    5700 7100
-	1    0    0    -1  
+	1 5700 7100
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR022
@@ -307,8 +307,8 @@ F 0 "#PWR022" H 10450 4350 50 0001 C CNN
 F 1 "GNDPWR" H 10454 4396 50 0000 C CNN
 F 2 "" H 10450 4500 50 0001 C CNN
 F 3 "" H 10450 4500 50 0001 C CNN
-	1    10450 4550
-	1    0    0    -1  
+	1 10450 4550
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR035
@@ -318,8 +318,8 @@ F 0 "#PWR035" H 4050 6000 50 0001 C CNN
 F 1 "GNDPWR" H 4054 6046 50 0000 C CNN
 F 2 "" H 4050 6150 50 0001 C CNN
 F 3 "" H 4050 6150 50 0001 C CNN
-	1    4050 6200
-	1    0    0    -1  
+	1 4050 6200
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR030
@@ -329,8 +329,8 @@ F 0 "#PWR030" H 3600 5600 50 0001 C CNN
 F 1 "GNDPWR" H 3604 5646 50 0000 C CNN
 F 2 "" H 3600 5750 50 0001 C CNN
 F 3 "" H 3600 5750 50 0001 C CNN
-	1    3600 5800
-	1    0    0    -1  
+	1 3600 5800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR027
@@ -340,8 +340,8 @@ F 0 "#PWR027" H 8250 5100 50 0001 C CNN
 F 1 "GNDPWR" H 8254 5146 50 0000 C CNN
 F 2 "" H 8250 5250 50 0001 C CNN
 F 3 "" H 8250 5250 50 0001 C CNN
-	1    8250 5300
-	1    0    0    -1  
+	1 8250 5300
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR024
@@ -351,8 +351,8 @@ F 0 "#PWR024" H 7800 4700 50 0001 C CNN
 F 1 "GNDPWR" H 7804 4746 50 0000 C CNN
 F 2 "" H 7800 4850 50 0001 C CNN
 F 3 "" H 7800 4850 50 0001 C CNN
-	1    7800 4900
-	1    0    0    -1  
+	1 7800 4900
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR015
@@ -362,8 +362,8 @@ F 0 "#PWR015" H 8150 2300 50 0001 C CNN
 F 1 "GNDPWR" H 8154 2346 50 0000 C CNN
 F 2 "" H 8150 2450 50 0001 C CNN
 F 3 "" H 8150 2450 50 0001 C CNN
-	1    8150 2500
-	1    0    0    -1  
+	1 8150 2500
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR012
@@ -373,8 +373,8 @@ F 0 "#PWR012" H 7700 1900 50 0001 C CNN
 F 1 "GNDPWR" H 7500 2050 50 0000 C CNN
 F 2 "" H 7700 2050 50 0001 C CNN
 F 3 "" H 7700 2050 50 0001 C CNN
-	1    7700 2100
-	1    0    0    -1  
+	1 7700 2100
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR05
@@ -384,8 +384,8 @@ F 0 "#PWR05" H 9150 750 50 0001 C CNN
 F 1 "GNDPWR" H 9154 796 50 0000 C CNN
 F 2 "" H 9150 900 50 0001 C CNN
 F 3 "" H 9150 900 50 0001 C CNN
-	1    9150 950 
-	1    0    0    -1  
+	1 9150 950
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR04
@@ -395,8 +395,8 @@ F 0 "#PWR04" H 8850 700 50 0001 C CNN
 F 1 "GND" H 8855 777 50 0000 C CNN
 F 2 "" H 8850 950 50 0001 C CNN
 F 3 "" H 8850 950 50 0001 C CNN
-	1    8850 950 
-	1    0    0    -1  
+	1 8850 950
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR010
@@ -406,8 +406,8 @@ F 0 "#PWR010" H 7050 1350 50 0001 C CNN
 F 1 "GND" H 7055 1427 50 0000 C CNN
 F 2 "" H 7050 1600 50 0001 C CNN
 F 3 "" H 7050 1600 50 0001 C CNN
-	1    7050 1600
-	1    0    0    -1  
+	1 7050 1600
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR08
@@ -417,8 +417,8 @@ F 0 "#PWR08" H 3600 1700 50 0001 C CNN
 F 1 "GND" H 3605 1777 50 0000 C CNN
 F 2 "" H 3600 1950 50 0001 C CNN
 F 3 "" H 3600 1950 50 0001 C CNN
-	1    3600 1950
-	1    0    0    -1  
+	1 3600 1950
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+24V #PWR0102
@@ -428,8 +428,8 @@ F 0 "#PWR0102" H 8900 3350 50 0001 C CNN
 F 1 "+24V" H 8915 3673 50 0000 C CNN
 F 2 "" H 8900 3500 50 0001 C CNN
 F 3 "" H 8900 3500 50 0001 C CNN
-	1    8900 3500
-	1    0    0    -1  
+	1 8900 3500
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0103
@@ -439,8 +439,8 @@ F 0 "#PWR0103" H 8900 3900 50 0001 C CNN
 F 1 "GNDPWR" H 8904 3946 50 0000 C CNN
 F 2 "" H 8900 4050 50 0001 C CNN
 F 3 "" H 8900 4050 50 0001 C CNN
-	1    8900 4100
-	1    0    0    -1  
+	1 8900 4100
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR0105
@@ -450,8 +450,8 @@ F 0 "#PWR0105" H 1300 2550 50 0001 C CNN
 F 1 "+3.3V" H 1315 2873 50 0000 C CNN
 F 2 "" H 1300 2700 50 0001 C CNN
 F 3 "" H 1300 2700 50 0001 C CNN
-	1    1300 2700
-	1    0    0    -1  
+	1 1300 2700
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR0109
@@ -461,8 +461,8 @@ F 0 "#PWR0109" H 1300 5650 50 0001 C CNN
 F 1 "+3.3V" V 1300 6050 50 0000 C CNN
 F 2 "" H 1300 5800 50 0001 C CNN
 F 3 "" H 1300 5800 50 0001 C CNN
-	1    1300 5800
-	0    1    1    0   
+	1 1300 5800
+	0 1 1 0
 $EndComp
 $Comp
 L power:GND #PWR0110
@@ -472,8 +472,8 @@ F 0 "#PWR0110" H 5100 1300 50 0001 C CNN
 F 1 "GND" H 5105 1377 50 0000 C CNN
 F 2 "" H 5100 1550 50 0001 C CNN
 F 3 "" H 5100 1550 50 0001 C CNN
-	1    5100 1550
-	1    0    0    -1  
+	1 5100 1550
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR0113
@@ -483,8 +483,8 @@ F 0 "#PWR0113" H 5100 600 50 0001 C CNN
 F 1 "+3.3V" H 5115 923 50 0000 C CNN
 F 2 "" H 5100 750 50 0001 C CNN
 F 3 "" H 5100 750 50 0001 C CNN
-	1    5100 750 
-	1    0    0    -1  
+	1 5100 750
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0114
@@ -494,8 +494,8 @@ F 0 "#PWR0114" H 5100 2550 50 0001 C CNN
 F 1 "GND" H 5105 2627 50 0000 C CNN
 F 2 "" H 5100 2800 50 0001 C CNN
 F 3 "" H 5100 2800 50 0001 C CNN
-	1    5100 2800
-	1    0    0    -1  
+	1 5100 2800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0118
@@ -505,8 +505,8 @@ F 0 "#PWR0118" H 4650 600 50 0001 C CNN
 F 1 "GND" H 4655 677 50 0000 C CNN
 F 2 "" H 4650 850 50 0001 C CNN
 F 3 "" H 4650 850 50 0001 C CNN
-	1    4650 850 
-	1    0    0    -1  
+	1 4650 850
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0119
@@ -516,8 +516,8 @@ F 0 "#PWR0119" H 4650 1850 50 0001 C CNN
 F 1 "GND" H 4655 1927 50 0000 C CNN
 F 2 "" H 4650 2100 50 0001 C CNN
 F 3 "" H 4650 2100 50 0001 C CNN
-	1    4650 2100
-	1    0    0    -1  
+	1 4650 2100
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0120
@@ -527,8 +527,8 @@ F 0 "#PWR0120" H 6850 2750 50 0001 C CNN
 F 1 "GND" H 6855 2827 50 0000 C CNN
 F 2 "" H 6850 3000 50 0001 C CNN
 F 3 "" H 6850 3000 50 0001 C CNN
-	1    6850 3000
-	1    0    0    -1  
+	1 6850 3000
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR0117
@@ -538,8 +538,8 @@ F 0 "#PWR0117" H 5100 1850 50 0001 C CNN
 F 1 "+3.3V" H 5115 2173 50 0000 C CNN
 F 2 "" H 5100 2000 50 0001 C CNN
 F 3 "" H 5100 2000 50 0001 C CNN
-	1    5100 2000
-	1    0    0    -1  
+	1 5100 2000
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0123
@@ -549,8 +549,8 @@ F 0 "#PWR0123" H 6700 1450 50 0001 C CNN
 F 1 "GNDPWR" H 6704 1496 50 0000 C CNN
 F 2 "" H 6700 1600 50 0001 C CNN
 F 3 "" H 6700 1600 50 0001 C CNN
-	1    6700 1650
-	1    0    0    -1  
+	1 6700 1650
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0111
@@ -560,8 +560,8 @@ F 0 "#PWR0111" H 9450 1600 50 0001 C CNN
 F 1 "GNDPWR" H 9454 1646 50 0000 C CNN
 F 2 "" H 9450 1750 50 0001 C CNN
 F 3 "" H 9450 1750 50 0001 C CNN
-	1    9450 1800
-	1    0    0    -1  
+	1 9450 1800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0115
@@ -571,8 +571,8 @@ F 0 "#PWR0115" H 5600 3250 50 0001 C CNN
 F 1 "GND" H 5605 3327 50 0000 C CNN
 F 2 "" H 5600 3500 50 0001 C CNN
 F 3 "" H 5600 3500 50 0001 C CNN
-	1    5600 3500
-	1    0    0    -1  
+	1 5600 3500
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0124
@@ -582,8 +582,8 @@ F 0 "#PWR0124" H 5600 3950 50 0001 C CNN
 F 1 "GND" H 5605 4027 50 0000 C CNN
 F 2 "" H 5600 4200 50 0001 C CNN
 F 3 "" H 5600 4200 50 0001 C CNN
-	1    5600 4200
-	1    0    0    -1  
+	1 5600 4200
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0101
@@ -593,8 +593,8 @@ F 0 "#PWR0101" H 2400 3100 50 0001 C CNN
 F 1 "GND" H 2500 3250 50 0000 C CNN
 F 2 "" H 2400 3350 50 0001 C CNN
 F 3 "" H 2400 3350 50 0001 C CNN
-	1    2400 3350
-	1    0    0    -1  
+	1 2400 3350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0125
@@ -604,8 +604,8 @@ F 0 "#PWR0125" H 1900 2400 50 0001 C CNN
 F 1 "GND" H 1905 2477 50 0000 C CNN
 F 2 "" H 1900 2650 50 0001 C CNN
 F 3 "" H 1900 2650 50 0001 C CNN
-	1    1900 2650
-	1    0    0    -1  
+	1 1900 2650
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0127
@@ -615,8 +615,8 @@ F 0 "#PWR0127" H 5900 1350 50 0001 C CNN
 F 1 "GND" H 5905 1427 50 0000 C CNN
 F 2 "" H 5900 1600 50 0001 C CNN
 F 3 "" H 5900 1600 50 0001 C CNN
-	1    5900 1600
-	1    0    0    -1  
+	1 5900 1600
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR0128
@@ -626,8 +626,8 @@ F 0 "#PWR0128" H 8100 5850 50 0001 C CNN
 F 1 "+5V" H 8115 6173 50 0000 C CNN
 F 2 "" H 8100 6000 50 0001 C CNN
 F 3 "" H 8100 6000 50 0001 C CNN
-	1    8100 6000
-	1    0    0    -1  
+	1 8100 6000
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0129
@@ -637,8 +637,8 @@ F 0 "#PWR0129" H 6950 4350 50 0001 C CNN
 F 1 "GNDPWR" H 6954 4396 50 0000 C CNN
 F 2 "" H 6950 4500 50 0001 C CNN
 F 3 "" H 6950 4500 50 0001 C CNN
-	1    6950 4550
-	1    0    0    -1  
+	1 6950 4550
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0126
@@ -648,8 +648,8 @@ F 0 "#PWR0126" H 5950 2550 50 0001 C CNN
 F 1 "GND" H 5955 2627 50 0000 C CNN
 F 2 "" H 5950 2800 50 0001 C CNN
 F 3 "" H 5950 2800 50 0001 C CNN
-	1    5950 2800
-	1    0    0    -1  
+	1 5950 2800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0112
@@ -659,8 +659,8 @@ F 0 "#PWR0112" H 4000 2950 50 0001 C CNN
 F 1 "GND" H 4005 3027 50 0000 C CNN
 F 2 "" H 4000 3200 50 0001 C CNN
 F 3 "" H 4000 3200 50 0001 C CNN
-	1    4000 3200
-	1    0    0    -1  
+	1 4000 3200
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+3.3V #PWR0116
@@ -670,8 +670,8 @@ F 0 "#PWR0116" H 4000 2600 50 0001 C CNN
 F 1 "+3.3V" H 4015 2923 50 0000 C CNN
 F 2 "" H 4000 2750 50 0001 C CNN
 F 3 "" H 4000 2750 50 0001 C CNN
-	1    4000 2750
-	1    0    0    -1  
+	1 4000 2750
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR0121
@@ -681,8 +681,8 @@ F 0 "#PWR0121" H 2700 5400 50 0001 C CNN
 F 1 "+5V" H 2715 5723 50 0000 C CNN
 F 2 "" H 2700 5550 50 0001 C CNN
 F 3 "" H 2700 5550 50 0001 C CNN
-	1    2700 5550
-	1    0    0    -1  
+	1 2700 5550
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0122
@@ -692,8 +692,8 @@ F 0 "#PWR0122" H 2700 6100 50 0001 C CNN
 F 1 "GND" H 2705 6177 50 0000 C CNN
 F 2 "" H 2700 6350 50 0001 C CNN
 F 3 "" H 2700 6350 50 0001 C CNN
-	1    2700 6350
-	1    0    0    -1  
+	1 2700 6350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0106
@@ -703,8 +703,8 @@ F 0 "#PWR0106" H 4300 2900 50 0001 C CNN
 F 1 "GND" H 4305 2977 50 0000 C CNN
 F 2 "" H 4300 3150 50 0001 C CNN
 F 3 "" H 4300 3150 50 0001 C CNN
-	1    4300 3150
-	1    0    0    -1  
+	1 4300 3150
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0107
@@ -714,8 +714,8 @@ F 0 "#PWR0107" H 3000 5350 50 0001 C CNN
 F 1 "GND" H 3005 5427 50 0000 C CNN
 F 2 "" H 3000 5600 50 0001 C CNN
 F 3 "" H 3000 5600 50 0001 C CNN
-	1    3000 5600
-	1    0    0    -1  
+	1 3000 5600
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR0108
@@ -725,8 +725,8 @@ F 0 "#PWR0108" H 2050 4700 50 0001 C CNN
 F 1 "+5V" H 2065 5023 50 0000 C CNN
 F 2 "" H 2050 4850 50 0001 C CNN
 F 3 "" H 2050 4850 50 0001 C CNN
-	1    2050 4850
-	1    0    0    -1  
+	1 2050 4850
+	1 0 0 -1
 $EndComp
 $Comp
 L Graphic:Logo_Open_Hardware_Small #LOGO1
@@ -736,11 +736,11 @@ F 0 "#LOGO1" H 900 1225 50 0001 C CNN
 F 1 "Logo_Open_Hardware_Small" H 900 725 50 0001 C CNN
 F 2 "Symbol:OSHW-Symbol_8.9x8mm_SilkScreen" H 900 950 50 0001 C CNN
 F 3 "~" H 900 950 50 0001 C CNN
-	1    900  950 
-	1    0    0    -1  
+	1 900 950
+	1 0 0 -1
 $EndComp
 $Comp
-L BLDC-driver-rescue:NCP81151-userdvc U1
+L BLDC-driver:NCP81151-userdvc U1
 U 1 1 5EE83B4A
 P 8600 1850
 F 0 "U1" H 8575 1865 50 0000 C CNN
@@ -753,8 +753,8 @@ F 6 "C173765" H 0 0 50 0001 C CNN "JLCSMT"
 F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0 0 50 0001 C CNN "Description"
 F 8 "onsemi" H 0 0 50 0001 C CNN "MFR"
 F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    8600 1850
-	1    0    0    -1  
+	1 8600 1850
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C7
@@ -769,8 +769,8 @@ F 5 "0402" H 9150 2000 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    9150 2000
-	0    1    1    0   
+	1 9150 2000
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C1
@@ -785,8 +785,8 @@ F 5 "1206" H 10150 1600 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10150 1600
-	-1   0    0    -1  
+	1 10150 1600
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C8
@@ -801,11 +801,11 @@ F 5 "0402" H 7850 2100 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05A105KA5NQNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    7850 2100
-	0    1    -1   0   
+	1 7850 2100
+	0 1 -1 0
 $EndComp
 $Comp
-L BLDC-driver-rescue:NCP81151-userdvc U4
+L BLDC-driver:NCP81151-userdvc U4
 U 1 1 5EE90B06
 P 8700 4650
 F 0 "U4" H 8675 4665 50 0000 C CNN
@@ -818,8 +818,8 @@ F 6 "C173765" H 0 0 50 0001 C CNN "JLCSMT"
 F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0 0 50 0001 C CNN "Description"
 F 8 "onsemi" H 0 0 50 0001 C CNN "MFR"
 F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    8700 4650
-	1    0    0    -1  
+	1 8700 4650
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C13
@@ -834,8 +834,8 @@ F 5 "0402" H 9250 4800 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    9250 4800
-	0    1    1    0   
+	1 9250 4800
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C14
@@ -850,11 +850,11 @@ F 5 "0402" H 7950 4900 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05A105KA5NQNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    7950 4900
-	0    1    -1   0   
+	1 7950 4900
+	0 1 -1 0
 $EndComp
 $Comp
-L BLDC-driver-rescue:NCP81151-userdvc U5
+L BLDC-driver:NCP81151-userdvc U5
 U 1 1 5EEA95DF
 P 4500 5550
 F 0 "U5" H 4475 5565 50 0000 C CNN
@@ -867,8 +867,8 @@ F 6 "C173765" H 0 0 50 0001 C CNN "JLCSMT"
 F 7 "[Extended] DFN-8 Gate Drive ICs ROHS" H 0 0 50 0001 C CNN "Description"
 F 8 "onsemi" H 0 0 50 0001 C CNN "MFR"
 F 9 "DFN-8_EP_3.0x3.0x0.5P" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    4500 5550
-	1    0    0    -1  
+	1 4500 5550
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C18
@@ -883,8 +883,8 @@ F 5 "0402" H 5050 5700 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    5050 5700
-	0    1    1    0   
+	1 5050 5700
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C19
@@ -899,8 +899,8 @@ F 5 "0402" H 3750 5800 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05A105KA5NQNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3750 5800
-	0    1    -1   0   
+	1 3750 5800
+	0 1 -1 0
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q2
@@ -908,10 +908,11 @@ U 1 1 5EEF645D
 P 9700 2800
 F 0 "Q2" H 9904 2846 50 0000 L CNN
 F 1 "FDMS8018" H 9904 2755 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 9900 2725 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 9900 2725 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 9700 2800 50 0001 L CNN
-	1    9700 2800
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 9700 2800
+	1 0 0 -1
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q1
@@ -919,10 +920,11 @@ U 1 1 5EEF96B3
 P 9700 2200
 F 0 "Q1" H 9904 2246 50 0000 L CNN
 F 1 "FDMS8018" H 9904 2155 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 9900 2125 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 9900 2125 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 9700 2200 50 0001 L CNN
-	1    9700 2200
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 9700 2200
+	1 0 0 -1
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q3
@@ -930,10 +932,11 @@ U 1 1 5EEFB859
 P 9800 5000
 F 0 "Q3" H 10004 5046 50 0000 L CNN
 F 1 "FDMS8018" H 10004 4955 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 10000 4925 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 10000 4925 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 9800 5000 50 0001 L CNN
-	1    9800 5000
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 9800 5000
+	1 0 0 -1
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q4
@@ -941,10 +944,11 @@ U 1 1 5EEFF15D
 P 9800 5600
 F 0 "Q4" H 10004 5646 50 0000 L CNN
 F 1 "FDMS8018" H 10004 5555 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 10000 5525 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 10000 5525 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 9800 5600 50 0001 L CNN
-	1    9800 5600
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 9800 5600
+	1 0 0 -1
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q5
@@ -952,10 +956,11 @@ U 1 1 5EF01887
 P 5600 5900
 F 0 "Q5" H 5804 5946 50 0000 L CNN
 F 1 "FDMS8018" H 5804 5855 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 5800 5825 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 5800 5825 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 5600 5900 50 0001 L CNN
-	1    5600 5900
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 5600 5900
+	1 0 0 -1
 $EndComp
 $Comp
 L Transistor_FET:FDMS86550 Q6
@@ -963,10 +968,11 @@ U 1 1 5EF05BB8
 P 5600 6500
 F 0 "Q6" H 5804 6546 50 0000 L CNN
 F 1 "FDMS8018" H 5804 6455 50 0000 L CNN
-F 2 "Package_TO_SOT_SMD:TDSON-8-1" H 5800 6425 50 0001 L CIN
+F 2 "JLC:FDMS8018" H 5800 6425 50 0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf" V 5600 6500 50 0001 L CNN
-	1    5600 6500
-	1    0    0    -1  
+F 4 "1" H 0 0 0 1 C CNN "JLCPCB_IGNORE"
+	1 5600 6500
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C2
@@ -981,8 +987,8 @@ F 5 "1206" H 10350 1600 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10350 1600
-	-1   0    0    -1  
+	1 10350 1600
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C10
@@ -997,8 +1003,8 @@ F 5 "1206" H 10250 4400 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10250 4400
-	-1   0    0    -1  
+	1 10250 4400
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C11
@@ -1013,8 +1019,8 @@ F 5 "1206" H 10450 4400 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10450 4400
-	-1   0    0    -1  
+	1 10450 4400
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C15
@@ -1029,8 +1035,8 @@ F 5 "1206" H 6050 5300 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    6050 5300
-	-1   0    0    -1  
+	1 6050 5300
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C16
@@ -1045,8 +1051,8 @@ F 5 "1206" H 6250 5300 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    6250 5300
-	-1   0    0    -1  
+	1 6250 5300
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C3
@@ -1061,8 +1067,8 @@ F 5 "1206" H 10550 1600 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10550 1600
-	-1   0    0    -1  
+	1 10550 1600
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C12
@@ -1077,8 +1083,8 @@ F 5 "1206" H 10650 4400 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    10650 4400
-	-1   0    0    -1  
+	1 10650 4400
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C17
@@ -1093,8 +1099,8 @@ F 5 "1206" H 6450 5300 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    6450 5300
-	-1   0    0    -1  
+	1 6450 5300
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:Thermistor_NTC NTC1
@@ -1111,8 +1117,8 @@ F 7 "[Extended] 10kΩ -40℃~+125℃ 3455K 0.31mA 100mW 3334K ±1% 3380K ±1% 06
 F 8 "C13564" H 0 0 50 0001 C CNN "JLCSMT"
 F 9 "Murata Electronics" H 0 0 50 0001 C CNN "MFR"
 F 10 "0603" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    6700 1400
-	1    0    0    -1  
+	1 6700 1400
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R1
@@ -1127,8 +1133,8 @@ F 5 "0402" H 6700 950 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1002TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    6700 950 
-	1    0    0    -1  
+	1 6700 950
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C4
@@ -1143,8 +1149,8 @@ F 5 "0402" H 7050 1400 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    7050 1400
-	-1   0    0    1   
+	1 7050 1400
+	-1 0 0 1
 $EndComp
 $Comp
 L Regulator_Linear:XC6206PxxxMR U7
@@ -1159,8 +1165,9 @@ F 5 "[Basic] 200mA 680mV@(100mA) Fixed 3.3V~3.3V Positive 1 6V SOT-23-3L Linear 
 F 6 "XC6206P332MR" H -50 -100 50 0001 C CNN "MPN"
 F 7 "Torex Semicon" H -50 -100 50 0001 C CNN "MFR"
 F 8 "SOT-23-3L" H -50 -100 50 0001 C CNN "JLCSMT_PKG"
-	1    4200 6950
-	1    0    0    -1  
+F 9 "0;0;180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 4200 6950
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C26
@@ -1175,8 +1182,8 @@ F 5 "0603" H 3500 7200 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL10A105KB8NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3500 7200
-	-1   0    0    1   
+	1 3500 7200
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C25
@@ -1191,11 +1198,11 @@ F 5 "0603" H 4750 7150 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL10A105KB8NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    4750 7150
-	-1   0    0    1   
+	1 4750 7150
+	-1 0 0 1
 $EndComp
 $Comp
-L BLDC-driver-rescue:MP2359 U6
+L BLDC-driver:MP2359 U6
 U 1 1 5EF46E3B
 P 1450 6650
 F 0 "U6" H 1500 6715 50 0000 C CNN
@@ -1207,8 +1214,9 @@ F 5 "TSOT-23-6" H 1450 6650 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Extended] TSOT-23-6 DC-DC Converters RoHS" H 0 0 50 0001 C CNN "Description"
 F 7 "MP2359DJ-LF-Z" H 0 0 50 0001 C CNN "MPN"
 F 8 "Monolithic Power Systems" H 0 0 50 0001 C CNN "MFR"
-	1    1450 6650
-	1    0    0    -1  
+F 9 "0;0;-180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 1450 6650
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R9
@@ -1223,8 +1231,8 @@ F 5 "C4260" H 2100 7400 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 6.2kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF6201T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2100 7400
-	-1   0    0    1   
+	1 2100 7400
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R8
@@ -1239,8 +1247,8 @@ F 5 "0603" H 2300 7200 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 33kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF3302T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2300 7200
-	0    -1   -1   0   
+	1 2300 7200
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:C_Small C23
@@ -1255,8 +1263,8 @@ F 5 "0402" H 2100 6850 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    2100 6850
-	0    1    -1   0   
+	1 2100 6850
+	0 1 -1 0
 $EndComp
 $Comp
 L Device:L_Small L1
@@ -1271,8 +1279,8 @@ F 5 "[Extended] 1.3A 4.7uH ±20% 196mΩ SMD Power Inductors ROHS" H 0 0 50 0001 
 F 6 "WPN3012HS4R7MT" H 0 0 50 0001 C CNN "MPN"
 F 7 "Sunlord" H 0 0 50 0001 C CNN "MFR"
 F 8 "SMD,3x3x1.2mm" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    2600 6850
-	0    -1   -1   0   
+	1 2600 6850
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:C_Small C24
@@ -1287,8 +1295,8 @@ F 5 "0402" H 2950 7050 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05A105KA5NQNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    2950 7050
-	-1   0    0    1   
+	1 2950 7050
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R7
@@ -1303,8 +1311,8 @@ F 5 "0402" H 950 7100 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 100kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1003TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    950  7100
-	0    -1   -1   0   
+	1 950 7100
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:Net-Tie_2 NT1
@@ -1314,8 +1322,9 @@ F 0 "NT1" H 9050 1039 50 0000 C CNN
 F 1 "Net-Tie_2" H 9050 1040 50 0001 C CNN
 F 2 "NetTie:NetTie-2_SMD_Pad0.5mm" H 9050 950 50 0001 C CNN
 F 3 "~" H 9050 950 50 0001 C CNN
-	1    9050 950 
-	1    0    0    -1  
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 9050 950
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R10
@@ -1330,8 +1339,8 @@ F 5 "0402" H 2350 2300 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1002TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2350 2300
-	1    0    0    -1  
+	1 2350 2300
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R11
@@ -1346,8 +1355,8 @@ F 5 "0402" H 2300 2650 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1002TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2300 2650
-	0    1    1    0   
+	1 2300 2650
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R12
@@ -1362,8 +1371,8 @@ F 5 "0402" H 8900 3650 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 100kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1003TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8900 3650
-	-1   0    0    1   
+	1 8900 3650
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R13
@@ -1378,8 +1387,8 @@ F 5 "0402" H 8900 3950 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1002TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8900 3950
-	-1   0    0    1   
+	1 8900 3950
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C28
@@ -1394,8 +1403,8 @@ F 5 "0402" H 5150 4750 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    5150 4750
-	-1   0    0    1   
+	1 5150 4750
+	-1 0 0 1
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x08 J2
@@ -1405,8 +1414,9 @@ F 0 "J2" H 768 2475 50 0000 C CNN
 F 1 "DBG" H 768 2566 50 0000 C CNN
 F 2 "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical" H 850 3100 50 0001 C CNN
 F 3 "~" H 850 3100 50 0001 C CNN
-	1    850  3100
-	-1   0    0    1   
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 850 3100
+	-1 0 0 1
 $EndComp
 $Comp
 L Amplifier_Current:NCS210 U8
@@ -1421,8 +1431,9 @@ F 5 "[Extended] SC-70-6(SOT-363) Current-Sensing Amplifiers ROHS" H 0 0 50 0001 
 F 6 "INA199A1DCKR" H 0 0 50 0001 C CNN "MPN"
 F 7 "Texas Instruments" H 0 0 50 0001 C CNN "MFR"
 F 8 "SOT-363" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    5100 1250
-	1    0    0    -1  
+F 9 "0;0;180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 5100 1250
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C30
@@ -1437,8 +1448,8 @@ F 5 "0402" H 4850 2050 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    4850 2050
-	0    1    1    0   
+	1 4850 2050
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C29
@@ -1453,8 +1464,8 @@ F 5 "0402" H 4900 800 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    4900 800 
-	0    1    1    0   
+	1 4900 800
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R17
@@ -1469,8 +1480,8 @@ F 5 "C21190" H 6700 2500 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 1kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF1001T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    6700 2500
-	1    0    0    -1  
+	1 6700 2500
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R18
@@ -1485,8 +1496,8 @@ F 5 "C21190" H 7000 2500 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 1kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF1001T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    7000 2500
-	1    0    0    -1  
+	1 7000 2500
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:LED D3
@@ -1501,8 +1512,8 @@ F 5 "LED_0603" H 7000 2750 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 20mA 285mcd 3.3V 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603 Light Emitting Diodes (LED) ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "19-217/GHC-YR1S2/3T" H 0 0 50 0001 C CNN "MPN"
 F 8 "Everlight Elec" H 0 0 50 0001 C CNN "MFR"
-	1    7000 2750
-	0    -1   -1   0   
+	1 7000 2750
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:LED D2
@@ -1517,8 +1528,8 @@ F 5 "LED_0603" H 6700 2750 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 20mA 285mcd 3.3V 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603 Light Emitting Diodes (LED) ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "19-217/GHC-YR1S2/3T" H 0 0 50 0001 C CNN "MPN"
 F 8 "Everlight Elec" H 0 0 50 0001 C CNN "MFR"
-	1    6700 2750
-	0    -1   -1   0   
+	1 6700 2750
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:C_Small C27
@@ -1533,8 +1544,8 @@ F 5 "1206" H 650 7150 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL31A226KAHNNNE" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    650  7150
-	-1   0    0    -1  
+	1 650 7150
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:R R14
@@ -1550,8 +1561,8 @@ F 6 "C154629" H 9900 6050 50 0001 C CNN "JLCSMT"
 F 7 "RES-SMD" H 9900 6050 50 0001 C CNN "JLCSMT_PKG"
 F 8 "[Extended] 1W 0.001Ω ±75ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS" H 0 0 50 0001 C CNN "Description"
 F 9 "RALEC" H 0 0 50 0001 C CNN "MFR"
-	1    9900 6050
-	-1   0    0    1   
+	1 9900 6050
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R R15
@@ -1567,8 +1578,8 @@ F 6 "C154629" H 5700 6900 50 0001 C CNN "JLCSMT"
 F 7 "RES-SMD" H 5700 6900 50 0001 C CNN "JLCSMT_PKG"
 F 8 "[Extended] 1W 0.001Ω ±75ppm/℃ ±1% 1206 Current Sense Resistors/Shunt Resistors ROHS" H 0 0 50 0001 C CNN "Description"
 F 9 "RALEC" H 0 0 50 0001 C CNN "MFR"
-	1    5700 6900
-	-1   0    0    1   
+	1 5700 6900
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:D_TVS D7
@@ -1583,8 +1594,8 @@ F 5 "C309871" H 0 0 50 0001 C CNN "JLCSMT"
 F 6 "[Extended] 12.3A 32.4V 22.2V 20V Bi-Directional SMA(DO-214AC) TVS ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "Brightking Elec (TAIWAN)" H 0 0 50 0001 C CNN "MFR"
 F 8 "SMA" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    9450 1650
-	0    1    1    0   
+	1 9450 1650
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R24
@@ -1599,8 +1610,8 @@ F 5 "C25076" H 5800 3950 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1000TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    5800 3950
-	0    1    1    0   
+	1 5800 3950
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R23
@@ -1615,8 +1626,8 @@ F 5 "C25076" H 5800 3250 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1000TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    5800 3250
-	0    1    1    0   
+	1 5800 3250
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C31
@@ -1631,8 +1642,8 @@ F 5 "0402" H 5600 3400 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402B102K500NT" H 0 0 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H 0 0 50 0001 C CNN "MFR"
-	1    5600 3400
-	1    0    0    -1  
+	1 5600 3400
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C32
@@ -1647,8 +1658,8 @@ F 5 "0402" H 5600 4100 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402B102K500NT" H 0 0 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H 0 0 50 0001 C CNN "MFR"
-	1    5600 4100
-	1    0    0    -1  
+	1 5600 4100
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C20
@@ -1663,8 +1674,8 @@ F 5 "0402" H 5900 1500 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    5900 1500
-	-1   0    0    -1  
+	1 5900 1500
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R2
@@ -1679,8 +1690,8 @@ F 5 "C4190" H 950 4150 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 2.2kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF2201T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    950  4150
-	1    0    0    -1  
+	1 950 4150
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R3
@@ -1695,8 +1706,8 @@ F 5 "C4190" H 1200 4150 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V ±100ppm/℃ -55℃~+155℃ 2.2kΩ 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF2201T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    1200 4150
-	1    0    0    -1  
+	1 1200 4150
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R6
@@ -1711,8 +1722,8 @@ F 5 "C11702" H 8300 6150 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8300 6150
-	-1   0    0    1   
+	1 8300 6150
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R5
@@ -1727,8 +1738,8 @@ F 5 "C11702" H 8100 6150 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8100 6150
-	-1   0    0    1   
+	1 8100 6150
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R4
@@ -1743,8 +1754,8 @@ F 5 "C11702" H 7900 6150 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    7900 6150
-	-1   0    0    1   
+	1 7900 6150
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R25
@@ -1759,8 +1770,8 @@ F 5 "C25086" H 6650 4100 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    6650 4100
-	-1   0    0    1   
+	1 6650 4100
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R26
@@ -1775,8 +1786,8 @@ F 5 "C25086" H 6950 4100 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    6950 4100
-	-1   0    0    1   
+	1 6950 4100
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R27
@@ -1791,8 +1802,8 @@ F 5 "C25086" H 7250 4100 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    7250 4100
-	-1   0    0    1   
+	1 7250 4100
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C22
@@ -1807,8 +1818,8 @@ F 5 "0402" H 6650 4350 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 22nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402B223K500NT" H 0 0 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H 0 0 50 0001 C CNN "MFR"
-	1    6650 4350
-	1    0    0    -1  
+	1 6650 4350
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C33
@@ -1823,8 +1834,8 @@ F 5 "0402" H 6950 4350 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 22nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402B223K500NT" H 0 0 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H 0 0 50 0001 C CNN "MFR"
-	1    6950 4350
-	1    0    0    -1  
+	1 6950 4350
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C34
@@ -1839,8 +1850,8 @@ F 5 "0402" H 7250 4350 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 22nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402B223K500NT" H 0 0 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H 0 0 50 0001 C CNN "MFR"
-	1    7250 4350
-	1    0    0    -1  
+	1 7250 4350
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R29
@@ -1855,8 +1866,8 @@ F 5 "C25077" H 9300 2200 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100JTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    9300 2200
-	1    0    0    1   
+	1 9300 2200
+	1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R30
@@ -1871,8 +1882,8 @@ F 5 "C25077" H 9350 5000 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100JTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    9350 5000
-	1    0    0    1   
+	1 9350 5000
+	1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R28
@@ -1887,8 +1898,8 @@ F 5 "C25077" H 5150 5900 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100JTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    5150 5900
-	1    0    0    1   
+	1 5150 5900
+	1 0 0 1
 $EndComp
 $Comp
 L Device:Net-Tie_2 NT3
@@ -1898,8 +1909,9 @@ F 0 "NT3" H 10150 6300 50 0000 C CNN
 F 1 "Net-Tie_2" H 10250 6400 50 0000 C CNN
 F 2 "NetTie:NetTie-2_SMD_Pad0.5mm" H 10150 6200 50 0001 C CNN
 F 3 "~" H 10150 6200 50 0001 C CNN
-	1    10150 6200
-	1    0    0    1   
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 10150 6200
+	1 0 0 1
 $EndComp
 $Comp
 L Device:Net-Tie_2 NT2
@@ -1909,8 +1921,9 @@ F 0 "NT2" H 5950 7150 50 0000 C CNN
 F 1 "Net-Tie_2" H 6050 7200 50 0000 C CNN
 F 2 "NetTie:NetTie-2_SMD_Pad0.5mm" H 5950 7050 50 0001 C CNN
 F 3 "~" H 5950 7050 50 0001 C CNN
-	1    5950 7050
-	1    0    0    1   
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 5950 7050
+	1 0 0 1
 $EndComp
 $Comp
 L Amplifier_Current:NCS210 U9
@@ -1925,8 +1938,9 @@ F 5 "[Extended] SC-70-6(SOT-363) Current-Sensing Amplifiers ROHS" H 0 0 50 0001 
 F 6 "INA199A1DCKR" H 0 0 50 0001 C CNN "MPN"
 F 7 "Texas Instruments" H 0 0 50 0001 C CNN "MFR"
 F 8 "SOT-363" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    5100 2500
-	1    0    0    -1  
+F 9 "0;0;180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 5100 2500
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C21
@@ -1941,8 +1955,8 @@ F 5 "0402" H 5950 2700 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    5950 2700
-	-1   0    0    -1  
+	1 5950 2700
+	-1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R19
@@ -1957,8 +1971,8 @@ F 5 "C11702" H 4000 2850 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    4000 2850
-	1    0    0    -1  
+	1 4000 2850
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:R_Small R20
@@ -1973,8 +1987,8 @@ F 5 "C11702" H 4000 3100 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    4000 3100
-	1    0    0    -1  
+	1 4000 3100
+	1 0 0 -1
 $EndComp
 $Comp
 L Interface_UART:SN75176AD U11
@@ -1989,8 +2003,9 @@ F 5 "SOIC-8_3.9x4.9x1.27P" H 2700 5950 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 10Mbps RS485 Transceiver SOIC-8_150mil RS-485/RS-422 ICs ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "SP485EEN-L/TR" H 0 0 50 0001 C CNN "MPN"
 F 8 "MaxLinear" H 0 0 50 0001 C CNN "MFR"
-	1    2700 5950
-	1    0    0    -1  
+F 9 "0;0;-90" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 2700 5950
+	1 0 0 -1
 $EndComp
 $Comp
 L MCU_ST_STM32F1:STM32F103C8Tx U2
@@ -2005,8 +2020,9 @@ F 5 "[Extended] 64KB -40℃~+85℃ 2.6V~3.6V ARM Cortex-M4 1@x16bit 1@x10ch/12bi
 F 6 "GD32F330C8T6" H 0 0 50 0001 C CNN "MPN"
 F 7 "GigaDevice Semicon Beijing" H 0 0 50 0001 C CNN "MFR"
 F 8 "LQFP-48_7.0x7.0x0.5P" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    3250 3750
-	1    0    0    -1  
+F 9 "0;0;-90" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 3250 3750
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C9
@@ -2021,8 +2037,8 @@ F 5 "0402" H 4300 3050 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    4300 3050
-	-1   0    0    1   
+	1 4300 3050
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small SB1
@@ -2037,8 +2053,8 @@ F 5 "0402" H 4250 3450 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±800ppm/℃ -55℃~+155℃ 0Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF0000TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    4250 3450
-	0    1    1    0   
+	1 4250 3450
+	0 1 1 0
 $EndComp
 $Comp
 L Device:C_Small C6
@@ -2053,8 +2069,8 @@ F 5 "0402" H 3750 1850 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3750 1850
-	-1   0    0    1   
+	1 3750 1850
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C5
@@ -2069,8 +2085,8 @@ F 5 "0402" H 3600 1850 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3600 1850
-	-1   0    0    1   
+	1 3600 1850
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C35
@@ -2085,8 +2101,8 @@ F 5 "0402" H 3950 1850 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3950 1850
-	-1   0    0    1   
+	1 3950 1850
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C36
@@ -2101,8 +2117,8 @@ F 5 "0402" H 3400 1850 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    3400 1850
-	-1   0    0    1   
+	1 3400 1850
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C37
@@ -2117,8 +2133,8 @@ F 5 "0402" H 2800 5550 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "CL05B104KO5NNNC" H 0 0 50 0001 C CNN "MPN"
 F 8 "Samsung Electro-Mechanics" H 0 0 50 0001 C CNN "MFR"
-	1    2800 5550
-	0    -1   -1   0   
+	1 2800 5550
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:R_Small R16
@@ -2133,8 +2149,8 @@ F 5 "C25076" H 1250 5900 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1000TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    1250 5900
-	0    1    1    0   
+	1 1250 5900
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R21
@@ -2149,8 +2165,8 @@ F 5 "C25076" H 1250 6000 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1000TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    1250 6000
-	0    1    1    0   
+	1 1250 6000
+	0 1 1 0
 $EndComp
 $Comp
 L Device:R_Small R22
@@ -2165,8 +2181,8 @@ F 5 "0603" H 3850 6050 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V -55℃~+155℃ 0Ω 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF0000T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    3850 6050
-	0    -1   -1   0   
+	1 3850 6050
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:R_Small R32
@@ -2181,8 +2197,8 @@ F 5 "0603" H 8150 5150 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V -55℃~+155℃ 0Ω 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF0000T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8150 5150
-	0    -1   -1   0   
+	1 8150 5150
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:R_Small R31
@@ -2197,8 +2213,8 @@ F 5 "0603" H 8050 2350 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/10W Thick Film Resistors 75V -55℃~+155℃ 0Ω 0603 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0603WAF0000T5E" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8050 2350
-	0    -1   -1   0   
+	1 8050 2350
+	0 -1 -1 0
 $EndComp
 $Comp
 L Transistor_BJT:BC807 Q7
@@ -2213,8 +2229,9 @@ F 5 "SOT-23-3" H 2150 5050 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 150V 300mW 600mA 200@10mA,5V 100MHz 500mV@50mA,5mA PNP +150℃@(Tj) SOT-23(SOT-23-3) Bipolar Transistors - BJT ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "MMBT5401" H 0 0 50 0001 C CNN "MPN"
 F 8 "Changjiang Electronics Tech (CJ)" H 0 0 50 0001 C CNN "MFR"
-	1    2150 5050
-	-1   0    0    1   
+F 9 "0;0;180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 2150 5050
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R33
@@ -2229,8 +2246,8 @@ F 5 "C11702" H 2450 5050 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2450 5050
-	0    -1   -1   0   
+	1 2450 5050
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:R_Small R34
@@ -2245,8 +2262,8 @@ F 5 "C11702" H 2250 5350 50 0001 C CNN "JLCSMT"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF1001TCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    2250 5350
-	0    -1   -1   0   
+	1 2250 5350
+	0 -1 -1 0
 $EndComp
 $Comp
 L Device:R_Small R35
@@ -2261,8 +2278,8 @@ F 5 "0402" H 3900 5700 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    3900 5700
-	-1   0    0    1   
+	1 3900 5700
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R37
@@ -2277,8 +2294,8 @@ F 5 "0402" H 8100 4800 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8100 4800
-	-1   0    0    1   
+	1 8100 4800
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:R_Small R36
@@ -2293,8 +2310,8 @@ F 5 "0402" H 8000 2000 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS" H 0 0 50 0001 C CNN "Description"
 F 7 "0402WGF100KTCE" H 0 0 50 0001 C CNN "MPN"
 F 8 "UNI-ROYAL(Uniroyal Elec)" H 0 0 50 0001 C CNN "MFR"
-	1    8000 2000
-	-1   0    0    1   
+	1 8000 2000
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:D_Schottky_Small D1
@@ -2309,8 +2326,8 @@ F 5 "[Basic] 40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes (SBD) ROHS" H 0 0 5
 F 6 "1N5819WS" H 0 0 50 0001 C CNN "MPN"
 F 7 "Guangdong Hottech" H 0 0 50 0001 C CNN "MFR"
 F 8 "SOD-323" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    2450 6950
-	0    1    1    0   
+	1 2450 6950
+	0 1 1 0
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H1
@@ -2320,8 +2337,9 @@ F 0 "H1" H 8850 5849 50 0000 L CNN
 F 1 "MountingHole_Pad" H 8850 5758 50 0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 8750 5800 50 0001 C CNN
 F 3 "~" H 8750 5800 50 0001 C CNN
-	1    8750 5800
-	1    0    0    -1  
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 8750 5800
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0130
@@ -2331,8 +2349,8 @@ F 0 "#PWR0130" H 8750 5700 50 0001 C CNN
 F 1 "GNDPWR" H 8754 5746 50 0000 C CNN
 F 2 "" H 8750 5850 50 0001 C CNN
 F 3 "" H 8750 5850 50 0001 C CNN
-	1    8750 5900
-	1    0    0    -1  
+	1 8750 5900
+	1 0 0 -1
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J3
@@ -2342,8 +2360,9 @@ F 0 "J3" H 868 4475 50 0000 C CNN
 F 1 "RS485" H 868 4566 50 0000 C CNN
 F 2 "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" H 950 4800 50 0001 C CNN
 F 3 "~" H 950 4800 50 0001 C CNN
-	1    950  4800
-	-1   0    0    1   
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 950 4800
+	-1 0 0 1
 $EndComp
 $Comp
 L power:GND #PWR0131
@@ -2353,8 +2372,8 @@ F 0 "#PWR0131" H 1350 1850 50 0001 C CNN
 F 1 "GND" H 1355 1927 50 0000 C CNN
 F 2 "" H 1350 2100 50 0001 C CNN
 F 3 "" H 1350 2100 50 0001 C CNN
-	1    1350 2100
-	1    0    0    -1  
+	1 1350 2100
+	1 0 0 -1
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x06 J1
@@ -2364,8 +2383,9 @@ F 0 "J1" H 868 6217 50 0000 C CNN
 F 1 "PROG/DBG" H 868 6126 50 0000 C CNN
 F 2 "Connector_JST:JST_PH_S6B-PH-K_1x06_P2.00mm_Horizontal" H 950 5800 50 0001 C CNN
 F 3 "~" H 950 5800 50 0001 C CNN
-	1    950  5800
-	-1   0    0    -1  
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 950 5800
+	-1 0 0 -1
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x04 J4
@@ -2375,8 +2395,8 @@ F 0 "J4" H 1068 1575 50 0000 C CNN
 F 1 "Encoder" H 1068 1666 50 0000 C CNN
 F 2 "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical" H 1150 2000 50 0001 C CNN
 F 3 "~" H 1150 2000 50 0001 C CNN
-	1    1150 2000
-	-1   0    0    1   
+	1 1150 2000
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:Crystal_GND24 Y1
@@ -2391,8 +2411,9 @@ F 5 "[Basic] 16MHz SMD Crystal Resonator 9pF ±10ppm ±30ppm -40℃~+85℃ SMD32
 F 6 "X322516MLB4SI" H 0 0 50 0001 C CNN "MPN"
 F 7 "Yangxing Tech" H 0 0 50 0001 C CNN "MFR"
 F 8 "SMD-CRY-3225_4P" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    2150 3150
-	1    0    0    -1  
+F 9 "0;0;-180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 2150 3150
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:C_Small C38
@@ -2407,8 +2428,8 @@ F 5 "0402" H 1950 3500 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H -2350 450 50 0001 C CNN "Description"
 F 7 "0402CG220J500NT" H -2350 450 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H -2350 450 50 0001 C CNN "MFR"
-	1    1950 3500
-	-1   0    0    1   
+	1 1950 3500
+	-1 0 0 1
 $EndComp
 $Comp
 L Device:C_Small C39
@@ -2423,8 +2444,8 @@ F 5 "0402" H 2250 3500 50 0001 C CNN "JLCSMT_PKG"
 F 6 "[Basic] 50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H -2050 450 50 0001 C CNN "Description"
 F 7 "0402CG220J500NT" H -2050 450 50 0001 C CNN "MPN"
 F 8 "FH(Guangdong Fenghua Advanced Tech)" H -2050 450 50 0001 C CNN "MFR"
-	1    2250 3500
-	-1   0    0    1   
+	1 2250 3500
+	-1 0 0 1
 $EndComp
 $Comp
 L power:GND #PWR0132
@@ -2434,46 +2455,30 @@ F 0 "#PWR0132" H 2100 3350 50 0001 C CNN
 F 1 "GND" H 2105 3427 50 0000 C CNN
 F 2 "" H 2100 3600 50 0001 C CNN
 F 3 "" H 2100 3600 50 0001 C CNN
-	1    2100 3600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x06 J5
-U 1 1 6158C2B5
-P 10700 3450
-F 0 "J5" H 10780 3442 50 0000 L CNN
-F 1 "Encoder/SPI" H 10780 3351 50 0000 L CNN
-F 2 "JLC:FPC-SMD_F0502-B-06-10G-R" H 10700 3450 50 0001 C CNN
-F 3 "https://datasheet.lcsc.com/lcsc/2004140933_XFCN-F0502-B-06-10G-R_C512910.pdf" H 10700 3450 50 0001 C CNN
-F 4 "C512910" H 10700 3450 50 0001 C CNN "JLCSMT"
-F 5 "[Extended] Clamshell 6 Bottom Contact Surface Mount 0.5mm SMD,P=0.5mm FFC/FPC Connectors ROHS" H 0 0 50 0001 C CNN "Description"
-F 6 "F0502-B-06-10G-R" H 0 0 50 0001 C CNN "MPN"
-F 7 "XFCN" H 0 0 50 0001 C CNN "MFR"
-F 8 "FPC-SMD" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    10700 3450
-	1    0    0    -1  
+	1 2100 3600
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0133
 U 1 1 61672685
-P 10400 3800
-F 0 "#PWR0133" H 10400 3550 50 0001 C CNN
-F 1 "GND" H 10405 3627 50 0000 C CNN
-F 2 "" H 10400 3800 50 0001 C CNN
-F 3 "" H 10400 3800 50 0001 C CNN
-	1    10400 3800
-	1    0    0    -1  
+P 10550 3700
+F 0 "#PWR0133" H 10550 3450 50 0001 C CNN
+F 1 "GND" H 10555 3527 50 0000 C CNN
+F 2 "" H 10550 3700 50 0001 C CNN
+F 3 "" H 10550 3700 50 0001 C CNN
+	1 10550 3700
+	1 0 0 -1
 $EndComp
 $Comp
 L power:+5V #PWR0134
 U 1 1 616D826B
-P 10400 3250
-F 0 "#PWR0134" H 10400 3100 50 0001 C CNN
-F 1 "+5V" H 10415 3423 50 0000 C CNN
-F 2 "" H 10400 3250 50 0001 C CNN
-F 3 "" H 10400 3250 50 0001 C CNN
-	1    10400 3250
-	1    0    0    -1  
+P 10550 3350
+F 0 "#PWR0134" H 10550 3200 50 0001 C CNN
+F 1 "+5V" H 10565 3523 50 0000 C CNN
+F 2 "" H 10550 3350 50 0001 C CNN
+F 3 "" H 10550 3350 50 0001 C CNN
+	1 10550 3350
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GND #PWR0104
@@ -2483,8 +2488,8 @@ F 0 "#PWR0104" H 5150 4600 50 0001 C CNN
 F 1 "GND" H 5155 4677 50 0000 C CNN
 F 2 "" H 5150 4850 50 0001 C CNN
 F 3 "" H 5150 4850 50 0001 C CNN
-	1    5150 4850
-	1    0    0    -1  
+	1 5150 4850
+	1 0 0 -1
 $EndComp
 $Comp
 L Device:CP_Small C40
@@ -2499,8 +2504,9 @@ F 5 "[Extended] -45℃~+105℃ 2000hrs@105℃ 100uF 6.5mm 25V 8mm ±20% SMD,8x6.
 F 6 "UT1E101M0806VG" H 0 0 50 0001 C CNN "MPN"
 F 7 "KS" H 0 0 50 0001 C CNN "MFR"
 F 8 "CAP-SMD" H 0 0 50 0001 C CNN "JLCSMT_PKG"
-	1    10800 1650
-	1    0    0    -1  
+F 9 "0;0;180" H 0 0 0 0001 C CNN "JLCPCB_CORRECTION"
+	1 10800 1650
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0135
@@ -2510,8 +2516,8 @@ F 0 "#PWR0135" H 10800 1550 50 0001 C CNN
 F 1 "GNDPWR" H 10804 1596 50 0000 C CNN
 F 2 "" H 10800 1700 50 0001 C CNN
 F 3 "" H 10800 1700 50 0001 C CNN
-	1    10800 1750
-	1    0    0    -1  
+	1 10800 1750
+	1 0 0 -1
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J6
@@ -2521,8 +2527,9 @@ F 0 "J6" H 10550 700 50 0000 C CNN
 F 1 "PWR" H 10600 800 50 0000 C CNN
 F 2 "Connector_JST:JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal" H 10550 1050 50 0001 C CNN
 F 3 "~" H 10550 1050 50 0001 C CNN
-	1    10550 1050
-	1    0    0    1   
+F 4 "1" H 0 0 0 0001 C CNN "JLCPCB_IGNORE"
+	1 10550 1050
+	1 0 0 1
 $EndComp
 $Comp
 L power:+24V #PWR0136
@@ -2532,8 +2539,8 @@ F 0 "#PWR0136" H 10350 800 50 0001 C CNN
 F 1 "+24V" H 10365 1123 50 0000 C CNN
 F 2 "" H 10350 950 50 0001 C CNN
 F 3 "" H 10350 950 50 0001 C CNN
-	1    10350 950 
-	1    0    0    -1  
+	1 10350 950
+	1 0 0 -1
 $EndComp
 $Comp
 L power:GNDPWR #PWR0137
@@ -2543,220 +2550,220 @@ F 0 "#PWR0137" H 10350 850 50 0001 C CNN
 F 1 "GNDPWR" H 10354 896 50 0000 C CNN
 F 2 "" H 10350 1000 50 0001 C CNN
 F 3 "" H 10350 1000 50 0001 C CNN
-	1    10350 1050
-	1    0    0    -1  
+	1 10350 1050
+	1 0 0 -1
 $EndComp
-Text Label 10000 2500 0    50   ~ 0
+Text Label 10000 2500 0 50 ~ 0
 PH_A
-Text Label 9050 2200 0    50   ~ 0
+Text Label 9050 2200 0 50 ~ 0
 HG_A
-Text Label 9050 2500 0    50   ~ 0
+Text Label 9050 2500 0 50 ~ 0
 LG_A
-Text Label 9150 5000 0    50   ~ 0
+Text Label 9150 5000 0 50 ~ 0
 HG_B
-Text Label 9150 5300 0    50   ~ 0
+Text Label 9150 5300 0 50 ~ 0
 LG_B
-Text Label 4900 5900 0    50   ~ 0
+Text Label 4900 5900 0 50 ~ 0
 HG_C
-Text Label 4900 6200 0    50   ~ 0
+Text Label 4900 6200 0 50 ~ 0
 LG_C
-Text Label 10000 5300 0    50   ~ 0
+Text Label 10000 5300 0 50 ~ 0
 PH_B
-Text Label 5850 6200 0    50   ~ 0
+Text Label 5850 6200 0 50 ~ 0
 PH_C
-Text Label 8250 5050 2    50   ~ 0
+Text Label 8250 5050 2 50 ~ 0
 PWM_B
-Text Label 4050 5950 2    50   ~ 0
+Text Label 4050 5950 2 50 ~ 0
 PWM_C
-Text Label 8150 2250 2    50   ~ 0
+Text Label 8150 2250 2 50 ~ 0
 PWM_A
-Text Label 4050 4350 0    50   ~ 0
+Text Label 4050 4350 0 50 ~ 0
 PWM_C
-Text Label 4050 4550 0    50   ~ 0
+Text Label 4050 4550 0 50 ~ 0
 PWM_A
-Text Label 4050 4450 0    50   ~ 0
+Text Label 4050 4450 0 50 ~ 0
 PWM_B
-Text Label 7450 1250 0    50   ~ 0
+Text Label 7450 1250 0 50 ~ 0
 FET_TEMP
-Text Label 2350 4350 2    50   ~ 0
+Text Label 2350 4350 2 50 ~ 0
 SCL
-Text Label 2350 4450 2    50   ~ 0
+Text Label 2350 4450 2 50 ~ 0
 SDA
-Text Label 4050 4950 0    50   ~ 0
+Text Label 4050 4950 0 50 ~ 0
 SWCLK
-Text Label 4050 4850 0    50   ~ 0
+Text Label 4050 4850 0 50 ~ 0
 SWDIO
-Text Label 2350 4650 2    50   ~ 0
+Text Label 2350 4650 2 50 ~ 0
 RXD
-Text Label 2350 4550 2    50   ~ 0
+Text Label 2350 4550 2 50 ~ 0
 TXD
-Text Label 4050 3650 0    50   ~ 0
+Text Label 4050 3650 0 50 ~ 0
 FET_TEMP
-Text Label 1350 5600 0    50   ~ 0
+Text Label 1350 5600 0 50 ~ 0
 RXD
-Text Label 1350 5700 0    50   ~ 0
+Text Label 1350 5700 0 50 ~ 0
 TXD
-Text Label 1550 1800 0    50   ~ 0
+Text Label 1550 1800 0 50 ~ 0
 SCL
-Text Label 1550 1900 0    50   ~ 0
+Text Label 1550 1900 0 50 ~ 0
 SDA
-Text Label 1550 5900 0    50   ~ 0
+Text Label 1550 5900 0 50 ~ 0
 SWCLK
-Text Label 1550 6000 0    50   ~ 0
+Text Label 1550 6000 0 50 ~ 0
 SWDIO
-Text Label 1500 4450 0    50   ~ 0
+Text Label 1500 4450 0 50 ~ 0
 SCL
-Text Label 1500 4350 0    50   ~ 0
+Text Label 1500 4350 0 50 ~ 0
 SDA
-Text Label 9050 3800 0    50   ~ 0
+Text Label 9050 3800 0 50 ~ 0
 VBUS
-Text Label 5000 4650 0    50   ~ 0
+Text Label 5000 4650 0 50 ~ 0
 VBUS
-Text Label 3950 5050 0    50   ~ 0
+Text Label 3950 5050 0 50 ~ 0
 PA15
-Text Label 1200 2900 0    50   ~ 0
+Text Label 1200 2900 0 50 ~ 0
 PA15
-Text Label 2200 4250 0    50   ~ 0
+Text Label 2200 4250 0 50 ~ 0
 U1_RX
-Text Label 2200 4150 0    50   ~ 0
+Text Label 2200 4150 0 50 ~ 0
 U1_TX
-Text Label 2200 4050 0    50   ~ 0
+Text Label 2200 4050 0 50 ~ 0
 PB5
-Text Label 2200 3950 0    50   ~ 0
+Text Label 2200 3950 0 50 ~ 0
 PB4
-Text Label 2200 3850 0    50   ~ 0
+Text Label 2200 3850 0 50 ~ 0
 U1_DE
-Text Label 1200 3200 0    50   ~ 0
+Text Label 1200 3200 0 50 ~ 0
 PB5
-Text Label 1200 3100 0    50   ~ 0
+Text Label 1200 3100 0 50 ~ 0
 PB4
-Text Label 4050 4650 0    50   ~ 0
+Text Label 4050 4650 0 50 ~ 0
 CANRX
-Text Label 4050 4750 0    50   ~ 0
+Text Label 4050 4750 0 50 ~ 0
 CANTX
-Text Label 1350 4800 0    50   ~ 0
+Text Label 1350 4800 0 50 ~ 0
 485A
-Text Label 1350 4700 0    50   ~ 0
+Text Label 1350 4700 0 50 ~ 0
 485B
-Text Notes 6200 1900 0    50   ~ 0
+Text Notes 6200 1900 0 50 ~ 0
 Thermal connection
-Text Label 5750 2300 0    50   ~ 0
+Text Label 5750 2300 0 50 ~ 0
 CURR_C
-Text Label 5700 1050 0    50   ~ 0
+Text Label 5700 1050 0 50 ~ 0
 CURR_B
-Text Label 5950 3250 0    50   ~ 0
+Text Label 5950 3250 0 50 ~ 0
 CURR_C
-Text Label 4000 4150 0    50   ~ 0
+Text Label 4000 4150 0 50 ~ 0
 LEDR
-Text Label 4000 4250 0    50   ~ 0
+Text Label 4000 4250 0 50 ~ 0
 LEDG
-Text Label 6650 2250 2    50   ~ 0
+Text Label 6650 2250 2 50 ~ 0
 LEDR
-Text Label 6950 2250 2    50   ~ 0
+Text Label 6950 2250 2 50 ~ 0
 LEDG
-Text Label 10050 5850 0    50   ~ 0
+Text Label 10050 5850 0 50 ~ 0
 PHB_SH
-Text Label 6050 7050 0    50   ~ 0
+Text Label 6050 7050 0 50 ~ 0
 PHC_GND
-Text Label 4300 2600 0    50   ~ 0
+Text Label 4300 2600 0 50 ~ 0
 PHC_GND
-Text Label 4300 2400 0    50   ~ 0
+Text Label 4300 2400 0 50 ~ 0
 PHC_SH
-Text Label 4300 1350 0    50   ~ 0
+Text Label 4300 1350 0 50 ~ 0
 PHB_GND
-Text Label 4300 1150 0    50   ~ 0
+Text Label 4300 1150 0 50 ~ 0
 PHB_SH
-Text Label 5900 3950 0    50   ~ 0
+Text Label 5900 3950 0 50 ~ 0
 CURR_B
-Text Label 5600 3900 2    50   ~ 0
+Text Label 5600 3900 2 50 ~ 0
 CURR_B_FLT
-Text Label 5600 3250 2    50   ~ 0
+Text Label 5600 3250 2 50 ~ 0
 CURR_C_FLT
-Text Label 4000 3750 0    50   ~ 0
+Text Label 4000 3750 0 50 ~ 0
 CURR_C_FLT
-Text Label 4000 3950 0    50   ~ 0
+Text Label 4000 3950 0 50 ~ 0
 CURR_B_FLT
-Text Label 8400 6250 0    50   ~ 0
+Text Label 8400 6250 0 50 ~ 0
 PWM_C
-Text Label 8400 6350 0    50   ~ 0
+Text Label 8400 6350 0 50 ~ 0
 PWM_B
-Text Label 8400 6450 0    50   ~ 0
+Text Label 8400 6450 0 50 ~ 0
 PWM_A
-Text Label 6950 3900 0    50   ~ 0
+Text Label 6950 3900 0 50 ~ 0
 PH_B
-Text Label 6650 3900 0    50   ~ 0
+Text Label 6650 3900 0 50 ~ 0
 PH_A
-Text Label 7250 3900 0    50   ~ 0
+Text Label 7250 3900 0 50 ~ 0
 PH_C
-Text Label 3950 3850 0    50   ~ 0
+Text Label 3950 3850 0 50 ~ 0
 VREF_OUT
-Text Label 5650 2500 0    50   ~ 0
+Text Label 5650 2500 0 50 ~ 0
 VREF_OUT
-Text Label 5850 6750 0    50   ~ 0
+Text Label 5850 6750 0 50 ~ 0
 PHC_SH
-Text Label 10250 6200 0    50   ~ 0
+Text Label 10250 6200 0 50 ~ 0
 PHB_GND
-Text Label 5750 1250 0    50   ~ 0
+Text Label 5750 1250 0 50 ~ 0
 VREF_OUT
-Text Label 4150 4050 2    50   ~ 0
+Text Label 4150 4050 2 50 ~ 0
 VBUS
-Text Label 2350 5750 2    50   ~ 0
+Text Label 2350 5750 2 50 ~ 0
 U1_DE
-Text Label 2250 5850 2    50   ~ 0
+Text Label 2250 5850 2 50 ~ 0
 U1_TX
-Text Label 2250 6150 2    50   ~ 0
+Text Label 2250 6150 2 50 ~ 0
 U1_RX
-Text Label 3000 6150 0    50   ~ 0
+Text Label 3000 6150 0 50 ~ 0
 485A
-Text Label 3000 6050 0    50   ~ 0
+Text Label 3000 6050 0 50 ~ 0
 485B
-Text Label 1200 3300 0    50   ~ 0
+Text Label 1200 3300 0 50 ~ 0
 U1_TX
-Text Label 1200 3400 0    50   ~ 0
+Text Label 1200 3400 0 50 ~ 0
 U1_RX
-Text Label 1250 3000 0    50   ~ 0
+Text Label 1250 3000 0 50 ~ 0
 U1_DE
-Text Label 4400 3450 0    50   ~ 0
+Text Label 4400 3450 0 50 ~ 0
 VREF_OUT
-Text Label 3550 6050 2    50   ~ 0
+Text Label 3550 6050 2 50 ~ 0
 ENBL
-Text Label 7950 5150 2    50   ~ 0
+Text Label 7950 5150 2 50 ~ 0
 ENBL
-Text Label 7900 2350 2    50   ~ 0
+Text Label 7900 2350 2 50 ~ 0
 ENBL
-Text Notes 6850 3750 0    50   ~ 0
+Text Notes 6850 3750 0 50 ~ 0
 Snubbers
-Text Notes 4400 3550 0    31   ~ 0
+Text Notes 4400 3550 0 31 ~ 0
 Place SB1 if no opamp
-Text Label 2400 5350 0    50   ~ 0
+Text Label 2400 5350 0 50 ~ 0
 ENBL
-Text Label 2450 4950 2    50   ~ 0
+Text Label 2450 4950 2 50 ~ 0
 ENBL
-Text Notes 2550 5100 0    28   ~ 0
+Text Notes 2550 5100 0 28 ~ 0
 [OD]
-Text Notes 3700 1100 0    50   ~ 0
+Text Notes 3700 1100 0 50 ~ 0
 Compatible 50V/V:\nNCS199A1SQT2G\nNCV213RSQT2G\nTSC213ICT\nINA213\nWS74199x1\nTP213
-Text Notes 2950 3500 0    50   ~ 0
+Text Notes 2950 3500 0 50 ~ 0
 STM32F103C8T6
-Text Notes 2400 3400 0    24   ~ 0
+Text Notes 2400 3400 0 24 ~ 0
 16MHz strap
-Text Label 1950 4050 0    50   ~ 0
+Text Label 1950 4050 0 50 ~ 0
 MOSI
-Text Label 1950 3950 0    50   ~ 0
+Text Label 1950 3950 0 50 ~ 0
 MISO
-Text Label 2300 3650 0    50   ~ 0
+Text Label 2300 3650 0 50 ~ 0
 SCK
-Text Label 10400 3650 2    50   ~ 0
+Text Label 10550 2850 2 50 ~ 0
 SCK
-Text Label 10400 3550 2    50   ~ 0
+Text Label 10550 2750 2 50 ~ 0
 MISO
-Text Label 10400 3450 2    50   ~ 0
+Text Label 10550 2650 2 50 ~ 0
 MOSI
-Text Label 2350 3550 0    50   ~ 0
+Text Label 2350 3550 0 50 ~ 0
 ~CS
-Text Label 10400 3350 2    50   ~ 0
+Text Label 10550 2550 2 50 ~ 0
 ~CS
-Text Notes 1250 7650 0    50   ~ 0
+Text Notes 1250 7650 0 50 ~ 0
 Compatible:\nEUP3458\nME3116\nSSP9451
 Wire Wire Line
 	9000 2100 9000 2000
@@ -2909,21 +2916,21 @@ Wire Wire Line
 Wire Wire Line
 	1550 5900 1350 5900
 Wire Wire Line
-	950  4250 950  4450
+	950 4250 950 4450
 Wire Wire Line
-	950  4450 1500 4450
+	950 4450 1500 4450
 Wire Wire Line
 	1200 4350 1200 4250
 Wire Wire Line
 	1200 4350 1500 4350
 Wire Wire Line
-	950  4050 950  3950
+	950 4050 950 3950
 Wire Wire Line
-	950  3950 1200 3950
+	950 3950 1200 3950
 Wire Wire Line
 	1200 3950 1200 4050
 Wire Wire Line
-	950  3850 950  3950
+	950 3850 950 3950
 Wire Wire Line
 	6700 1050 6700 1250
 Wire Wire Line
@@ -2941,9 +2948,9 @@ Wire Wire Line
 Wire Wire Line
 	4750 6900 4750 6950
 Wire Wire Line
-	900  7250 900  7200
+	900 7250 900 7200
 Wire Wire Line
-	900  7200 1050 7200
+	900 7200 1050 7200
 Wire Wire Line
 	2200 7200 2100 7200
 Wire Wire Line
@@ -2971,13 +2978,13 @@ Wire Wire Line
 Wire Wire Line
 	2950 7350 2950 7300
 Wire Wire Line
-	800  6850 800  6800
+	800 6850 800 6800
 Wire Wire Line
-	800  6850 1050 6850
+	800 6850 1050 6850
 Wire Wire Line
-	800  7100 850  7100
+	800 7100 850 7100
 Wire Wire Line
-	800  6850 800  7100
+	800 6850 800 7100
 Wire Wire Line
 	2950 6850 3250 6850
 Wire Wire Line
@@ -3017,7 +3024,7 @@ Wire Wire Line
 Wire Wire Line
 	10450 4550 10650 4550
 Wire Wire Line
-	8950 950  8850 950 
+	8950 950 8850 950
 Wire Wire Line
 	5150 6050 5400 6050
 Wire Wire Line
@@ -3131,15 +3138,15 @@ Wire Wire Line
 Wire Wire Line
 	5100 2050 5100 2000
 Wire Wire Line
-	5100 750  5100 800 
+	5100 750 5100 800
 Wire Wire Line
-	5000 800  5100 800 
+	5000 800 5100 800
 Wire Wire Line
-	5100 800  5100 850 
+	5100 800 5100 850
 Wire Wire Line
-	4800 800  4650 800 
+	4800 800 4650 800
 Wire Wire Line
-	4650 800  4650 850 
+	4650 800 4650 850
 Wire Wire Line
 	4650 2100 4650 2050
 Wire Wire Line
@@ -3165,11 +3172,11 @@ Wire Wire Line
 Wire Wire Line
 	7000 3000 7000 2900
 Wire Wire Line
-	650  7250 900  7250
+	650 7250 900 7250
 Wire Wire Line
-	650  7050 650  6850
+	650 7050 650 6850
 Wire Wire Line
-	650  6850 800  6850
+	650 6850 800 6850
 Wire Wire Line
 	5700 1400 5700 1250
 Wire Wire Line
@@ -3415,21 +3422,21 @@ Wire Wire Line
 Wire Wire Line
 	2300 3650 2550 3650
 Wire Wire Line
-	10400 3650 10500 3650
+	10550 2850 10650 2850
 Wire Wire Line
-	10400 3800 10400 3750
+	10550 3700 10550 3650
 Wire Wire Line
-	10400 3750 10500 3750
+	10550 3650 10650 3650
 Wire Wire Line
-	10400 3550 10500 3550
+	10550 2750 10650 2750
 Wire Wire Line
-	10400 3450 10500 3450
+	10550 2650 10650 2650
 Wire Wire Line
-	10400 3250 10500 3250
+	10550 3350 10650 3350
 Wire Wire Line
 	2350 3550 2550 3550
 Wire Wire Line
-	10400 3350 10500 3350
+	10550 2550 10650 2550
 Wire Wire Line
 	3500 6950 3900 6950
 Wire Wire Line
@@ -3453,14 +3460,14 @@ Connection ~ 10350 1500
 Connection ~ 10450 4300
 Connection ~ 6250 5200
 Connection ~ 7050 1250
-Connection ~ 950  3950
+Connection ~ 950 3950
 Connection ~ 6700 1250
 Connection ~ 3500 6950
 Connection ~ 4750 6950
 Connection ~ 2100 7200
 Connection ~ 2200 6850
 Connection ~ 2800 6850
-Connection ~ 800  6850
+Connection ~ 800 6850
 Connection ~ 2950 6850
 Connection ~ 10150 1750
 Connection ~ 10350 1750
@@ -3478,9 +3485,9 @@ Connection ~ 3200 1750
 Connection ~ 3050 2150
 Connection ~ 8900 3800
 Connection ~ 5100 2050
-Connection ~ 5100 800 
+Connection ~ 5100 800
 Connection ~ 6850 3000
-Connection ~ 900  7250
+Connection ~ 900 7250
 Connection ~ 5700 1250
 Connection ~ 5600 3950
 Connection ~ 1900 2650
@@ -3512,4 +3519,36 @@ NoConn ~ 2550 3150
 NoConn ~ 2550 3250
 NoConn ~ 2550 3750
 NoConn ~ 2550 4750
+$Comp
+L Connector_Generic:Conn_01x04 J5
+U 1 1 6227FD11
+P 10850 2650
+F 0 "J5" H 10930 2642 50 0000 L CNN
+F 1 "Conn_01x04" H 10930 2551 50 0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" H 10850 2650 50 0001 C CNN
+F 3 "~" H 10850 2650 50 0001 C CNN
+	1 10850 2650
+	1 0 0 -1
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J7
+U 1 1 62282831
+P 10850 3450
+F 0 "J7" H 10930 3442 50 0000 L CNN
+F 1 "Conn_01x04" H 10930 3351 50 0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" H 10850 3450 50 0001 C CNN
+F 3 "~" H 10850 3450 50 0001 C CNN
+	1 10850 3450
+	1 0 0 -1
+$EndComp
+Wire Wire Line
+	10550 3650 10550 3550
+Wire Wire Line
+	10550 3450 10650 3450
+Connection ~ 10550 3650
+Wire Wire Line
+	10650 3550 10550 3550
+Connection ~ 10550 3550
+Wire Wire Line
+	10550 3550 10550 3450
 $EndSCHEMATC
